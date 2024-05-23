@@ -10,29 +10,35 @@ nation = 'Deutschland'
 url = "https://housinganywhere.com/de/s/" + city + "--" + nation
 page = requests.get(url)
 soup = BeautifulSoup(page.text, 'html.parser')
-
-#Initialize price list by finding all prices in the webpage
-price = soup.findAll('div', attrs={'data-test-locator': 'ListingCardInfoPrice'})
-price_list = []
-
-for item in price:
-    price_list.append(item.text[:5].rstrip(' €').rstrip('\xa0'))
-    
-#Initialize other data of house listing by finding all listings in the webpage
-listing = soup.findAll('div', attrs={'data-test-locator': 'ListingCardPropertyInfo'})
+   
+#Initialize data of house listing by finding all listings in the webpage
+listing = soup.findAll('a', attrs={'data-test-locator': 'Listing Card'})
+price = []
+warm = []
 app_type = []
 size = []
 notation = []
 date =[]
+provider = []
 
 for item in listing:
-    app_type.append(item.contents[0].text.rstrip(' •'))
-    size.append(item.contents[1].text[:-3].rstrip(' '))
-    notation.append(item.contents[2].text.rstrip(' •'))
-    if len(item) > 3:
-        date.append(item.contents[3].text[3:].lstrip(' '))
+    price.append(item.contents[0].contents[1].contents[0].contents[0].contents[2].text[:5].rstrip(' €').rstrip('\xa0'))
+    warm.append(item.contents[0].contents[1].contents[0].contents[0].contents[4].text)
+    app_type.append(item.contents[0].contents[1].contents[1].contents[0].contents[0].text.rstrip(' •'))
+    size.append(item.contents[0].contents[1].contents[1].contents[0].contents[1].text[:-3].rstrip(' '))
+    notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
+    if len(item.contents[0].contents[1].contents[1].contents[0]) > 3:
+        date.append(item.contents[0].contents[1].contents[1].contents[0].contents[3].text[3:].lstrip(' '))
     else:
         date.append('')
+    provider.append(item.contents[0].contents[1].contents[2].contents[0].contents[0].text)
+
+#Find address of all listing
+image = soup.findAll('img', attrs={'data-test-locator': 'ListingCardPhotoGallery/Photo'})
+address = []
+
+for item in image:
+    address.append(item['title'].split(', ')[1])
 
 #Find ids of all listing     
 links = soup.findAll('a', attrs={'data-test-locator': 'Listing Card'})
@@ -61,20 +67,24 @@ for i in range(2, lastPage+1):
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
     
-    price = soup.findAll('div', attrs={'data-test-locator': 'ListingCardInfoPrice'})
-    
-    for item in price:
-        price_list.append(item.text[:5].rstrip(' €').rstrip('\xa0'))
-    
-    listing = soup.findAll('div', attrs={'data-test-locator': 'ListingCardPropertyInfo'})
+    listing = soup.findAll('a', attrs={'data-test-locator': 'Listing Card'})
+
     for item in listing:
-        app_type.append(item.contents[0].text.rstrip(' •'))
-        size.append(item.contents[1].text[:-3].rstrip(' '))
-        notation.append(item.contents[2].text.rstrip(' •'))
-        if len(item) > 3:
-            date.append(item.contents[3].text[3:].lstrip(' '))
+        price.append(item.contents[0].contents[1].contents[0].contents[0].contents[2].text[:5].rstrip(' €').rstrip('\xa0'))
+        warm.append(item.contents[0].contents[1].contents[0].contents[0].contents[4].text)
+        app_type.append(item.contents[0].contents[1].contents[1].contents[0].contents[0].text.rstrip(' •'))
+        size.append(item.contents[0].contents[1].contents[1].contents[0].contents[1].text[:-3].rstrip(' '))
+        notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
+        if len(item.contents[0].contents[1].contents[1].contents[0]) > 3:
+            date.append(item.contents[0].contents[1].contents[1].contents[0].contents[3].text[3:].lstrip(' '))
         else:
             date.append('')
+        provider.append(item.contents[0].contents[1].contents[2].contents[0].contents[0].text)
+    
+    image = soup.findAll('img', attrs={'data-test-locator': 'ListingCardPhotoGallery/Photo'})
+
+    for item in image:
+        address.append(item['title'].split(', ')[1])
             
     links = soup.findAll('a', attrs={'data-test-locator': 'Listing Card'})
     hrefs = [item['href'] for item in links]
@@ -84,7 +94,7 @@ for i in range(2, lastPage+1):
 
 #Add all data to a table
 columns = ['ID', 'Price', 'Housing Type', 'Size', 'Note']
-data = [ids,price_list, app_type, size, notation]
+data = [ids,price, app_type, size, notation]
 data = zip(*data)
 
 #Save data to csv file
