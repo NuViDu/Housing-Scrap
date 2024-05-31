@@ -1,665 +1,681 @@
-ID,Price,Housing Type,Size,Note
-1014572,777,Studio,21,Max. 1 Person
-1495641,450,WG-Zimmer,11,1 Mitbewohner(in)
-1014571,788,Studio,19,Max. 1 Person
-551278,1350,Wohnung,27,1 Schlafzimmer
-1148758,1163,Studio,20,Max. 1 Person
-1514899,1250,Wohnung,34,1 Schlafzimmer
-552725,1495,Wohnung,41,1 Schlafzimmer
-1232200,1150,Studio,36,Max. 2 Personen
-1148762,1163,Studio,22,Max. 1 Person
-1042680,655,WG-Zimmer,9,3  Mitbewohner(innen)
-552722,1350,Wohnung,26,1 Schlafzimmer
-1466446,1095,Wohnung,38,1 Schlafzimmer
-1285015,659,WG-Zimmer,8,8  Mitbewohner(innen)
-1514739,710,WG-Zimmer,10,6  Mitbewohner(innen)
-1514685,710,WG-Zimmer,9,5  Mitbewohner(innen)
-1054925,710,WG-Zimmer,12,4  Mitbewohner(innen)
-995622,690,WG-Zimmer,13,3  Mitbewohner(innen)
-1315726,689,WG-Zimmer,9,5  Mitbewohner(innen)
-995624,690,WG-Zimmer,12,3  Mitbewohner(innen)
-1089357,1495,Studio,37,Max. 2 Personen
-1418559,820,WG-Zimmer,13,6  Mitbewohner(innen)
-1177548,993,Studio,17,Max. 1 Person
-1378626,699,WG-Zimmer,9,3  Mitbewohner(innen)
-1464665,699,WG-Zimmer,9,4  Mitbewohner(innen)
-1101017,610,WG-Zimmer,12,7  Mitbewohner(innen)
-995623,710,WG-Zimmer,15,3  Mitbewohner(innen)
-1355605,715,WG-Zimmer,9,3  Mitbewohner(innen)
-1189497,715,WG-Zimmer,11,3  Mitbewohner(innen)
-1418549,840,WG-Zimmer,16,5  Mitbewohner(innen)
-1296777,770,WG-Zimmer,9,3  Mitbewohner(innen)
-1026026,699,WG-Zimmer,11,7  Mitbewohner(innen)
-998438,700,WG-Zimmer,20,2  Mitbewohner(innen)
-924441,680,WG-Zimmer,11,7  Mitbewohner(innen)
-1259327,1400,Studio,23,Max. 2 Personen
-1422753,1400,Studio,24,Max. 2 Personen
-1259343,1400,Studio,21,Max. 2 Personen
-1072952,1400,Wohnung,22,1 Schlafzimmer
-1455320,1125,Wohnung,28,1 Schlafzimmer
-922766,680,Wohnung,30,1 Schlafzimmer
-1205926,1245,WG-Zimmer,14,5  Mitbewohner(innen)
-1517668,800,WG-Zimmer,10,5  Mitbewohner(innen)
-1178825,700,WG-Zimmer,10,3  Mitbewohner(innen)
-906031,630,WG-Zimmer,7,4  Mitbewohner(innen)
-1459035,650,WG-Zimmer,10,3  Mitbewohner(innen)
-1485477,600,WG-Zimmer,11,3  Mitbewohner(innen)
-1114360,750,WG-Zimmer,12,4  Mitbewohner(innen)
-1114264,750,WG-Zimmer,12,4  Mitbewohner(innen)
-1058424,630,WG-Zimmer,11,2  Mitbewohner(innen)
-1394286,720,Wohnung,30,1 Schlafzimmer
-1032484,1211,WG-Zimmer,9,7  Mitbewohner(innen)
-1467022,770,Studio,27,Max. 1 Person
-1510215,770,WG-Zimmer,16,3  Mitbewohner(innen)
-1114359,750,WG-Zimmer,14,4  Mitbewohner(innen)
-1007963,670,WG-Zimmer,15,2  Mitbewohner(innen)
-1101448,750,WG-Zimmer,11,4  Mitbewohner(innen)
-1007362,1295,WG-Zimmer,24,1 Mitbewohner(in)
-1172286,660,WG-Zimmer,10,7  Mitbewohner(innen)
-1081396,625,WG-Zimmer,7,7  Mitbewohner(innen)
-1025928,950,WG-Zimmer,16,2  Mitbewohner(innen)
-1147978,660,WG-Zimmer,11,3  Mitbewohner(innen)
-999376,1495,Wohnung,34,1 Schlafzimmer
-1488484,950,Wohnung,65,1 Schlafzimmer
-1027570,950,WG-Zimmer,27,2  Mitbewohner(innen)
-1027565,1754,WG-Zimmer,17,2  Mitbewohner(innen)
-1509121,1250,Studio,35,Max. 2 Personen
-1189492,1040,Studio,22,Max. 1 Person
-1053215,620,WG-Zimmer,11,4  Mitbewohner(innen)
-1455267,1225,Wohnung,29,1 Schlafzimmer
-1081397,635,WG-Zimmer,9,7  Mitbewohner(innen)
-1179742,770,WG-Zimmer,18,1 Mitbewohner(in)
-906192,670,WG-Zimmer,10,4  Mitbewohner(innen)
-1099623,689,WG-Zimmer,9,5  Mitbewohner(innen)
-1169534,630,WG-Zimmer,10,3  Mitbewohner(innen)
-1157718,630,WG-Zimmer,9,3  Mitbewohner(innen)
-1057165,630,WG-Zimmer,9,3  Mitbewohner(innen)
-1054372,680,WG-Zimmer,11,3  Mitbewohner(innen)
-1153089,630,WG-Zimmer,9,3  Mitbewohner(innen)
-1153086,630,WG-Zimmer,9,3  Mitbewohner(innen)
-1517462,650,WG-Zimmer,15,2  Mitbewohner(innen)
-1513948,790,WG-Zimmer,15,3  Mitbewohner(innen)
-1272124,1395,Studio,41,Max. 2 Personen
-1063187,2250,Studio,30,Max. 2 Personen
-1513609,2600,Wohnung,62,1 Schlafzimmer
-1506324,675,Wohnung,42,1 Schlafzimmer
-1026029,690,WG-Zimmer,9,4  Mitbewohner(innen)
-999288,630,WG-Zimmer,10,4  Mitbewohner(innen)
-1029057,665,WG-Zimmer,10,4  Mitbewohner(innen)
-1503011,1662,WG-Zimmer,10,4  Mitbewohner(innen)
-1514703,900,WG-Zimmer,15,5  Mitbewohner(innen)
-760812,770,WG-Zimmer,17,2  Mitbewohner(innen)
-1468284,750,WG-Zimmer,21,Von 20. Juni
-944036,770,WG-Zimmer,17,2  Mitbewohner(innen)
-1514689,910,WG-Zimmer,18,2  Mitbewohner(innen)
-1430272,1330,Wohnung,38,1 Schlafzimmer
-1026003,689,WG-Zimmer,11,4  Mitbewohner(innen)
-1084237,689,WG-Zimmer,11,4  Mitbewohner(innen)
-1459809,1340,Wohnung,37,1 Schlafzimmer
-1465290,750,WG-Zimmer,16,2  Mitbewohner(innen)
-1514033,700,WG-Zimmer,15,3  Mitbewohner(innen)
-1506094,700,WG-Zimmer,10.02,3  Mitbewohner(innen)
-1486640,700,WG-Zimmer,10.02,3  Mitbewohner(innen)
-870177,1300,Studio,27,Max. 1 Person
-998393,1695,Wohnung,56,1 Schlafzimmer
-746339,750,WG-Zimmer,12,3  Mitbewohner(innen)
-1441542,1700,Studio,51,Max. 2 Personen
-987463,1700,Wohnung,45,1 Schlafzimmer
-1486660,745,WG-Zimmer,10,3  Mitbewohner(innen)
-1454892,745,WG-Zimmer,11,4  Mitbewohner(innen)
-1485080,690,WG-Zimmer,7,2  Mitbewohner(innen)
-516162,1490,Wohnung,39,1 Schlafzimmer
-922767,1734,Wohnung,53,2 Schlafzimmer
-1444071,1595,Wohnung,50,1 Schlafzimmer
-1363884,650,WG-Zimmer,23,4  Mitbewohner(innen)
-1397110,1245,Wohnung,31,1 Schlafzimmer
-1424983,850,WG-Zimmer,18,2  Mitbewohner(innen)
-1424200,1790,Wohnung,55,2 Schlafzimmer
-552721,2100,Wohnung,62,2 Schlafzimmer
-1025523,650,WG-Zimmer,8,3  Mitbewohner(innen)
-1515486,845,WG-Zimmer,12,3  Mitbewohner(innen)
-1467013,1376,Studio,31,Max. 2 Personen
-1508535,620,WG-Zimmer,10,4  Mitbewohner(innen)
-1224284,1800,Wohnung,60,1 Schlafzimmer
-1135689,1050,Studio,35,Max. 2 Personen
-915779,795,WG-Zimmer,13,1 Mitbewohner(in)
-1514665,780,WG-Zimmer,10,5  Mitbewohner(innen)
-1081848,630,WG-Zimmer,11,6  Mitbewohner(innen)
-1432927,1400,Wohnung,40,1 Schlafzimmer
-1414724,1850,Wohnung,55,2 Schlafzimmer
-1459323,1040,Studio,18,Max. 1 Person
-1500286,745,WG-Zimmer,11,4  Mitbewohner(innen)
-1267147,650,WG-Zimmer,16,3  Mitbewohner(innen)
-1451070,1850,Wohnung,58,1 Schlafzimmer
-1516106,745,WG-Zimmer,10,4  Mitbewohner(innen)
-1508538,650,WG-Zimmer,13,4  Mitbewohner(innen)
-1508534,650,WG-Zimmer,13,4  Mitbewohner(innen)
-1364394,895,WG-Zimmer,10,4  Mitbewohner(innen)
-1341173,1550,Wohnung,34,1 Schlafzimmer
-1023758,995,WG-Zimmer,18,1 Mitbewohner(in)
-1135012,1400,Wohnung,56,1 Schlafzimmer
-1501618,770,WG-Zimmer,11,2  Mitbewohner(innen)
-1490166,770,WG-Zimmer,12,2  Mitbewohner(innen)
-1489808,770,WG-Zimmer,10,2  Mitbewohner(innen)
-1464381,930,WG-Zimmer,34,Von 20. Mai
-1062006,1830,Wohnung,50,1 Schlafzimmer
-1077727,650,WG-Zimmer,8,3  Mitbewohner(innen)
-1488481,885,WG-Zimmer,18,1 Mitbewohner(in)
-1000480,1450,Studio,43,Max. 2 Personen
-1272350,1298,Studio,35,Max. 2 Personen
-1461194,1075,WG-Zimmer,15,2  Mitbewohner(innen)
-1475776,1600,Wohnung,74,1 Schlafzimmer
-1196496,1700,Wohnung,35,1 Schlafzimmer
-1466656,1842,Wohnung,40,1 Schlafzimmer
-1439213,1200,Studio,30,Max. 1 Person
-1447903,905,WG-Zimmer,13,3  Mitbewohner(innen)
-1517805,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-1517804,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-1517802,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-1517800,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-1517799,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-1517798,325,Mehrbettzimmer,16,9  Mitbewohner(innen)
-984632,760,WG-Zimmer,17,3  Mitbewohner(innen)
-1458717,1200,Studio,20,Max. 2 Personen
-1480598,1200,Wohnung,35,1 Schlafzimmer
-1461427,920,WG-Zimmer,19,1 Mitbewohner(in)
-1506145,2049,Wohnung,64,1 Schlafzimmer
-1504100,920,WG-Zimmer,14,1 Mitbewohner(in)
-1081853,690,WG-Zimmer,13,6  Mitbewohner(innen)
-1445433,920,WG-Zimmer,14,1 Mitbewohner(in)
-1507183,845,WG-Zimmer,14,1 Mitbewohner(in)
-1258211,750,WG-Zimmer,15,12  Mitbewohner(innen)
-1477042,1890,Wohnung,60,1 Schlafzimmer
-1452200,841,WG-Zimmer,19,4  Mitbewohner(innen)
-998519,680,WG-Zimmer,9,5  Mitbewohner(innen)
-998568,1550,Studio,35,Max. 2 Personen
-1323753,950,Studio,30,Max. 1 Person
-1515807,852,WG-Zimmer,10,2  Mitbewohner(innen)
-1444065,2129,Wohnung,57,2 Schlafzimmer
-1454388,960,WG-Zimmer,15,7  Mitbewohner(innen)
-1090359,810,WG-Zimmer,21,3  Mitbewohner(innen)
-609149,660,WG-Zimmer,11,4  Mitbewohner(innen)
-1115086,660,WG-Zimmer,10,5  Mitbewohner(innen)
-1036323,1495,Wohnung,30,1 Schlafzimmer
-1510104,1950,Wohnung,47,1 Schlafzimmer
-1510102,1950,Wohnung,47,1 Schlafzimmer
-1473475,977,WG-Zimmer,25,1 Mitbewohner(in)
-1450540,1625,Wohnung,57,1 Schlafzimmer
-1513529,1225,Wohnung,50,1 Schlafzimmer
-1495292,690,WG-Zimmer,32,4  Mitbewohner(innen)
-1282824,690,WG-Zimmer,23,7  Mitbewohner(innen)
-1457393,620,WG-Zimmer,8,3  Mitbewohner(innen)
-1447834,985,WG-Zimmer,22,2  Mitbewohner(innen)
-1475774,2100,Wohnung,55,1 Schlafzimmer
-1479422,1150,Wohnung,40,1 Schlafzimmer
-1297825,1290,Studio,22,Max. 1 Person
-1040031,620,WG-Zimmer,9,3  Mitbewohner(innen)
-1413322,810,Studio,37,Max. 2 Personen
-1489278,810,WG-Zimmer,18,2  Mitbewohner(innen)
-1447059,630,WG-Zimmer,20,2  Mitbewohner(innen)
-1512504,1035,WG-Zimmer,10,10  Mitbewohner(innen)
-1082677,1350,WG-Zimmer,13,4  Mitbewohner(innen)
-1514676,600,WG-Zimmer,13,3  Mitbewohner(innen)
-1514674,600,WG-Zimmer,13,3  Mitbewohner(innen)
-1514666,600,WG-Zimmer,13,3  Mitbewohner(innen)
-1118007,600,WG-Zimmer,12,2  Mitbewohner(innen)
-1029078,620,WG-Zimmer,16,4  Mitbewohner(innen)
-868751,590,WG-Zimmer,9,6  Mitbewohner(innen)
-868480,675,WG-Zimmer,12,4  Mitbewohner(innen)
-1514957,1045,WG-Zimmer,18,3  Mitbewohner(innen)
-1101025,710,WG-Zimmer,13,7  Mitbewohner(innen)
-1067674,690,WG-Zimmer,10,3  Mitbewohner(innen)
-840658,710,WG-Zimmer,10,7  Mitbewohner(innen)
-753762,710,WG-Zimmer,9,4  Mitbewohner(innen)
-1121528,1800,Wohnung,50,2 Schlafzimmer
-753547,1300,Wohnung,35,1 Schlafzimmer
-1510167,1300,Studio,35,Max. 2 Personen
-712085,1300,Wohnung,35,1 Schlafzimmer
-986582,1190,Studio,44,Max. 2 Personen
-1403191,749,WG-Zimmer,9,3  Mitbewohner(innen)
-1039029,650,WG-Zimmer,8,3  Mitbewohner(innen)
-1512315,1275,Wohnung,20,1 Schlafzimmer
-1461208,650,WG-Zimmer,9,5  Mitbewohner(innen)
-1127246,1550,Wohnung,50,1 Schlafzimmer
-1111695,720,WG-Zimmer,13,4  Mitbewohner(innen)
-1027052,1150,Studio,37,Max. 2 Personen
-1459030,1003,WG-Zimmer,16,1 Mitbewohner(in)
-756825,1195,Studio,23,Max. 2 Personen
-1463001,1490,Studio,30,Max. 2 Personen
-1411775,1250,WG-Zimmer,19,4  Mitbewohner(innen)
-1477781,760,WG-Zimmer,11,4  Mitbewohner(innen)
-1104451,859,WG-Zimmer,19,2  Mitbewohner(innen)
-1101325,660,WG-Zimmer,8,4  Mitbewohner(innen)
-1475766,2400,Wohnung,74,1 Schlafzimmer
-1485489,2420,Wohnung,75,1 Schlafzimmer
-1514027,700,WG-Zimmer,15,3  Mitbewohner(innen)
-1000537,1900,Wohnung,68,2 Schlafzimmer
-1333069,700,Wohnung,39,1 Schlafzimmer
-1031917,770,WG-Zimmer,8,2  Mitbewohner(innen)
-1042644,2450,WG-Zimmer,12,2  Mitbewohner(innen)
-1039989,795,Wohnung,80,1 Schlafzimmer
-1513845,1790,WG-Zimmer,10,3  Mitbewohner(innen)
-1385069,3495,WG-Zimmer,26,Von 20. Mai
-1078666,1700,Wohnung,100,2 Schlafzimmer
-1263358,1413,Wohnung,70,2 Schlafzimmer
-1509458,730,Wohnung,42,1 Schlafzimmer
-1242363,1490,Wohnung,45,1 Schlafzimmer
-1059515,899,WG-Zimmer,16,6  Mitbewohner(innen)
-1285451,1100,Wohnung,22,1 Schlafzimmer
-1505008,2055,WG-Zimmer,15,3  Mitbewohner(innen)
-1428636,3000,Wohnung,100,2 Schlafzimmer
-1239596,3000,Wohnung,80,2 Schlafzimmer
-1462014,770,WG-Zimmer,9,4  Mitbewohner(innen)
-1459996,975,WG-Zimmer,15,1 Mitbewohner(in)
-1512436,2550,Wohnung,107,2 Schlafzimmer
-763886,1380,Studio,57,Max. 2 Personen
-767835,1380,Studio,45,Max. 2 Personen
-1491833,1350,Wohnung,43,1 Schlafzimmer
-914885,1795,Wohnung,67,2 Schlafzimmer
-1518533,1990,Wohnung,66,1 Schlafzimmer
-1509481,865,WG-Zimmer,17,5  Mitbewohner(innen)
-1442864,586,WG-Zimmer,10.85,4  Mitbewohner(innen)
-1226050,1690,Studio,35,Max. 2 Personen
-1284709,2600,Wohnung,62,1 Schlafzimmer
-901297,2600,Wohnung,72,1 Schlafzimmer
-1078568,1650,Wohnung,62,2 Schlafzimmer
-1511854,1400,Wohnung,36,1 Schlafzimmer
-780249,1400,Wohnung,45,1 Schlafzimmer
-1103185,1490,Studio,45,Max. 2 Personen
-1513954,790,WG-Zimmer,17,2  Mitbewohner(innen)
-1491522,735,WG-Zimmer,15,3  Mitbewohner(innen)
-1506123,735,WG-Zimmer,12,3  Mitbewohner(innen)
-1292924,1790,Wohnung,60,1 Schlafzimmer
-1450529,2139,Studio,17,Max. 1 Person
-1411980,2300,Wohnung,55,1 Schlafzimmer
-1460962,845,WG-Zimmer,14,3  Mitbewohner(innen)
-1344812,1550,Studio,32,Max. 2 Personen
-804970,580,WG-Zimmer,8,5  Mitbewohner(innen)
-1115663,1490,Studio,24,Max. 2 Personen
-1052653,1540,Studio,36,Max. 2 Personen
-1495290,650,WG-Zimmer,27,4  Mitbewohner(innen)
-1424710,650,WG-Zimmer,14.02,2  Mitbewohner(innen)
-1475773,1580,Wohnung,68,1 Schlafzimmer
-1439107,1600,Studio,30,Max. 2 Personen
-1125587,1599,Studio,49,Max. 2 Personen
-1001021,640,WG-Zimmer,17,3  Mitbewohner(innen)
-1134169,1400,Wohnung,57,1 Schlafzimmer
-744642,730,Studio,31,Max. 2 Personen
-639954,1450,WG-Zimmer,14,4  Mitbewohner(innen)
-1454345,2554,Wohnung,43,1 Schlafzimmer
-1169827,1300,Studio,45,Max. 2 Personen
-1134210,1200,Studio,25,Max. 1 Person
-1098498,680,WG-Zimmer,12,5  Mitbewohner(innen)
-1113290,985,Studio,33,Max. 2 Personen
-1467973,680,WG-Zimmer,16,1 Mitbewohner(in)
-1006543,1200,WG-Zimmer,10,4  Mitbewohner(innen)
-1005593,375,Wohnung,38,1 Schlafzimmer
-1514953,1600,Mehrbettzimmer,9,4  Mitbewohner(innen)
-1464376,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1516322,1395,Wohnung,50,2 Schlafzimmer
-1464375,999,WG-Zimmer,20,3  Mitbewohner(innen)
-1464372,999,WG-Zimmer,25,3  Mitbewohner(innen)
-1463092,999,WG-Zimmer,25,2  Mitbewohner(innen)
-1462972,999,WG-Zimmer,20,3  Mitbewohner(innen)
-1462918,999,WG-Zimmer,25,3  Mitbewohner(innen)
-1460993,999,WG-Zimmer,15,2  Mitbewohner(innen)
-901298,2900,Wohnung,74,2 Schlafzimmer
-1362811,1038,Studio,29,Max. 1 Person
-1360946,2900,WG-Zimmer,23,Von 2. Juli
-1412788,1168,Wohnung,80,2 Schlafzimmer
-1481516,1038,Wohnung,29,1 Schlafzimmer
-1360952,836,WG-Zimmer,25,Von 1. Aug.
-1159479,2090,Wohnung,50,1 Schlafzimmer
-1470189,2317,WG-Zimmer,12,2  Mitbewohner(innen)
-1473184,999,WG-Zimmer,25,2  Mitbewohner(innen)
-1464272,999,WG-Zimmer,25,2  Mitbewohner(innen)
-1339681,2600,Wohnung,85,3 Schlafzimmer
-1283298,690,WG-Zimmer,24,Von 20. Mai
-1079174,1420,WG-Zimmer,18,2  Mitbewohner(innen)
-1204529,730,Wohnung,43,1 Schlafzimmer
-1044021,750,WG-Zimmer,14,5  Mitbewohner(innen)
-1066637,1100,WG-Zimmer,17,7  Mitbewohner(innen)
-1360952,1038,WG-Zimmer,25,Von 1. Aug.
-1159479,2900,Wohnung,50,1 Schlafzimmer
-1247309,1038,Wohnung,63,1 Schlafzimmer
-1135635,1400,Wohnung,85,2 Schlafzimmer
-1344545,1995,WG-Zimmer,23,1 Mitbewohner(in)
-1152670,2317,Wohnung,32,1 Schlafzimmer
-1398805,2257,Wohnung,35,1 Schlafzimmer
-1502579,1300,Wohnung,55,2 Schlafzimmer
-1496925,3000,Wohnung,85,4 Schlafzimmer
-1437397,1390,Studio,42,Max. 2 Personen
-1385066,950,WG-Zimmer,15,3  Mitbewohner(innen)
-1325044,1650,Wohnung,35,1 Schlafzimmer
-1504003,795,WG-Zimmer,14,3  Mitbewohner(innen)
-971975,820,WG-Zimmer,21,6  Mitbewohner(innen)
-1087952,1790,Wohnung,75,2 Schlafzimmer
-1060645,1500,Wohnung,43,1 Schlafzimmer
-1352067,1128,WG-Zimmer,32,Von 20. Mai
-947078,1150,Wohnung,35,1 Schlafzimmer
-847025,1690,Wohnung,65,1 Schlafzimmer
-1360951,1128,WG-Zimmer,28,Von 5. Juni
-1344542,1128,WG-Zimmer,29,1 Mitbewohner(in)
-1485447,1018,WG-Zimmer,17,6  Mitbewohner(innen)
-1124779,2250,Wohnung,97,1 Schlafzimmer
-1499138,2200,Wohnung,70,2 Schlafzimmer
-1400020,990,WG-Zimmer,23,2  Mitbewohner(innen)
-1223371,1350,Wohnung,27,1 Schlafzimmer
-751724,2295,Wohnung,67,3 Schlafzimmer
-1496798,845,WG-Zimmer,16,3  Mitbewohner(innen)
-1495380,845,WG-Zimmer,16,3  Mitbewohner(innen)
-1245347,1550,Studio,60,Max. 2 Personen
-1363431,2495,WG-Zimmer,20,2  Mitbewohner(innen)
-1489888,799,Wohnung,55,1 Schlafzimmer
-1385066,950,WG-Zimmer,15,3  Mitbewohner(innen)
-1325044,1650,Wohnung,35,1 Schlafzimmer
-971975,820,WG-Zimmer,21,6  Mitbewohner(innen)
-1060645,1500,Wohnung,43,1 Schlafzimmer
-1456094,973,WG-Zimmer,12,3  Mitbewohner(innen)
-1411254,950,WG-Zimmer,26,2  Mitbewohner(innen)
-1358924,2590,Wohnung,69,2 Schlafzimmer
-1197066,1200,Studio,30,Max. 2 Personen
-973217,2000,Wohnung,60,1 Schlafzimmer
-1151885,1620,Wohnung,39,1 Schlafzimmer
-1473652,895,WG-Zimmer,16,3  Mitbewohner(innen)
-1468996,1400,Wohnung,71,1 Schlafzimmer
-490866,1450,Wohnung,42,1 Schlafzimmer
-1475582,2800,Wohnung,77,2 Schlafzimmer
-1518685,690,WG-Zimmer,12,4  Mitbewohner(innen)
-1312506,1980,Wohnung,54,2 Schlafzimmer
-1506495,1949,Wohnung,70,1 Schlafzimmer
-1226045,1490,Studio,21,Max. 1 Person
-1455667,2300,Wohnung,63,2 Schlafzimmer
-496275,1300,Wohnung,59,1 Schlafzimmer
-1230478,1490,Studio,28,Max. 2 Personen
-1063606,2495,Wohnung,60,3 Schlafzimmer
-740351,600,WG-Zimmer,14,2  Mitbewohner(innen)
-1219297,1490,Studio,28,Max. 1 Person
-1385631,2100,Wohnung,52,1 Schlafzimmer
-1123590,2010,Wohnung,51,1 Schlafzimmer
-1474472,945,WG-Zimmer,21,3  Mitbewohner(innen)
-1285440,1990,Wohnung,27,1 Schlafzimmer
-1191817,1350,Wohnung,35,1 Schlafzimmer
-1123531,2400,Wohnung,90,2 Schlafzimmer
-1456092,1402,Wohnung,20,1 Schlafzimmer
-1492272,1350,Studio,25,Max. 2 Personen
-1494491,650,WG-Zimmer,28,2  Mitbewohner(innen)
-1472126,799,WG-Zimmer,15,3  Mitbewohner(innen)
-1465947,999,WG-Zimmer,25,2  Mitbewohner(innen)
-1465936,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1464474,999,WG-Zimmer,30,2  Mitbewohner(innen)
-1459870,700,WG-Zimmer,14,1 Mitbewohner(in)
-1352160,3800,Wohnung,85,1 Schlafzimmer
-1461216,690,WG-Zimmer,9,2  Mitbewohner(innen)
-578321,740,WG-Zimmer,17,2  Mitbewohner(innen)
-1474957,690,WG-Zimmer,12,5  Mitbewohner(innen)
-1495509,700,WG-Zimmer,15,2  Mitbewohner(innen)
-463949,1680,Wohnung,52,1 Schlafzimmer
-1242907,1150,Wohnung,40,1 Schlafzimmer
-1127417,1350,Wohnung,40,1 Schlafzimmer
-1039256,1310,Wohnung,39,1 Schlafzimmer
-1497108,1590,Wohnung,45,1 Schlafzimmer
-1258204,3000,Wohnung,100,1 Schlafzimmer
-995565,2995,Wohnung,80,4 Schlafzimmer
-1497166,1990,Wohnung,39,1 Schlafzimmer
-1518892,1200,Wohnung,50,1 Schlafzimmer
-1032418,1390,Wohnung,45,1 Schlafzimmer
-1385070,1390,WG-Zimmer,15,Von 1. Okt.
-1286793,950,Studio,35,Max. 2 Personen
-1385068,950,WG-Zimmer,16,Von 2. Nov.
-1489445,1800,Wohnung,55,1 Schlafzimmer
-1269768,2200,Wohnung,74,1 Schlafzimmer
-1285275,1470,Wohnung,55,1 Schlafzimmer
-1040490,1440,Wohnung,75,1 Schlafzimmer
-1497130,1480,Studio,39,Max. 2 Personen
-1510571,1480,Studio,32,Max. 2 Personen
-1498569,2376,Studio,27,Max. 2 Personen
-518618,1978,Studio,46,Max. 2 Personen
-1208501,1420,Studio,39,Max. 2 Personen
-901306,2300,Wohnung,55,1 Schlafzimmer
-1234804,2300,Wohnung,63,2 Schlafzimmer
-1324750,3100,Wohnung,49,1 Schlafzimmer
-1039984,1490,Wohnung,110,2 Schlafzimmer
-1282721,3500,Wohnung,35.5,1 Schlafzimmer
-1471906,3500,Wohnung,120,5 Schlafzimmer
-998328,1700,Wohnung,120,5 Schlafzimmer
-1475572,3600,Wohnung,148,2 Schlafzimmer
-1450381,1050,WG-Zimmer,15,1 Mitbewohner(in)
-1268806,2000,Studio,23,Max. 2 Personen
-1244443,1799,Wohnung,79,2 Schlafzimmer
-1453602,1490,Wohnung,58,1 Schlafzimmer
-1104414,1490,Wohnung,36,1 Schlafzimmer
-1392533,1002,Wohnung,43,1 Schlafzimmer
-1506560,2400,WG-Zimmer,27,Von 6. Okt.
-1160210,3600,Studio,30,Max. 2 Personen
-901320,1950,Wohnung,40,1 Schlafzimmer
-1505542,650,WG-Zimmer,12.5,7  Mitbewohner(innen)
-1226054,1790,Studio,45,Max. 2 Personen
-1087018,1100,Wohnung,40,1 Schlafzimmer
-1486247,1600,Wohnung,59,1 Schlafzimmer
-1465044,1950,Wohnung,45,1 Schlafzimmer
-1499751,2995,Wohnung,90,7 Schlafzimmer
-1473741,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1472606,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1472598,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1472235,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1472136,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1466149,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1464492,999,WG-Zimmer,15,1 Mitbewohner(in)
-1464483,999,WG-Zimmer,30,2  Mitbewohner(innen)
-736813,650,WG-Zimmer,12,3  Mitbewohner(innen)
-1481170,2000,Wohnung,65,1 Schlafzimmer
-1473855,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1473849,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1473846,999,WG-Zimmer,20,3  Mitbewohner(innen)
-1473745,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1473744,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1473742,999,WG-Zimmer,20,2  Mitbewohner(innen)
-1094575,2900,Wohnung,78,2 Schlafzimmer
-1365656,899,WG-Zimmer,24,3  Mitbewohner(innen)
-1088686,1490,Wohnung,25,1 Schlafzimmer
-1442009,1490,Studio,36,Max. 2 Personen
-1239621,1350,Wohnung,36,1 Schlafzimmer
-1438463,1100,Studio,40,Max. 2 Personen
-1270827,2290,Wohnung,90,2 Schlafzimmer
-1007701,2500,Wohnung,55,2 Schlafzimmer
-1178035,2190,Wohnung,67,1 Schlafzimmer
-1489584,720,WG-Zimmer,24,1 Mitbewohner(in)
-1152054,2980,Wohnung,60,2 Schlafzimmer
-1224784,1750,Wohnung,92,2 Schlafzimmer
-1045273,1800,Wohnung,64,2 Schlafzimmer
-1172360,3300,Wohnung,69,2 Schlafzimmer
-1502659,1790,Wohnung,120,3 Schlafzimmer
-1475638,3148, Wohnheim,55,1 Schlafzimmer
-1513093,1850,Wohnung,70,1 Schlafzimmer
-1365166,3000,Wohnung,92,2 Schlafzimmer
-1485113,1850,Wohnung,52,1 Schlafzimmer
-1385694,1680,Wohnung,60,1 Schlafzimmer
-1460174,1400,Studio,30,Max. 2 Personen
-1197313,1400,Wohnung,44,1 Schlafzimmer
-1194877,2250,Wohnung,35,1 Schlafzimmer
-1495594,2158,Wohnung,85,1 Schlafzimmer
-1385694,1680,Wohnung,60,1 Schlafzimmer
-1460174,1400,Studio,30,Max. 2 Personen
-1197313,1400,Wohnung,44,1 Schlafzimmer
-1194877,2250,Wohnung,35,1 Schlafzimmer
-1495594,1650,Wohnung,85,1 Schlafzimmer
-1282291,1128,Wohnung,63,1 Schlafzimmer
-1360949,1780,WG-Zimmer,30,Von 11. Okt.
-1403007,2158,Wohnung,70,1 Schlafzimmer
-1345484,2490,Wohnung,81,2 Schlafzimmer
-1084706,1750,Wohnung,63,1 Schlafzimmer
-1442297,1900,Wohnung,105,2 Schlafzimmer
-1514734,2370,Wohnung,78,2 Schlafzimmer
-1486978,1440,Wohnung,55,1 Schlafzimmer
-1455398,1420,Studio,51,Max. 3 Personen
-1397909,880,WG-Zimmer,17,1 Mitbewohner(in)
-1152352,3500,Wohnung,73,4 Schlafzimmer
-1503551,2000,Wohnung,67,1 Schlafzimmer
-1479772,1600,Wohnung,58,1 Schlafzimmer
-998996,1470,Wohnung,39,1 Schlafzimmer
-1448355,2000,Wohnung,78,1 Schlafzimmer
-1518216,1995,Wohnung,40,2 Schlafzimmer
-1428070,500,Mehrbettzimmer,18,9  Mitbewohner(innen)
-1428052,500,Mehrbettzimmer,18,8  Mitbewohner(innen)
-1357332,750,WG-Zimmer,17.56,1 Mitbewohner(in)
-1465111,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1464480,999,WG-Zimmer,30,2  Mitbewohner(innen)
-1465113,999,WG-Zimmer,20,3  Mitbewohner(innen)
-1104272,2450,Wohnung,74,2 Schlafzimmer
-1028789,1270,Studio,55,Max. 2 Personen
-843970,1720,Wohnung,60,2 Schlafzimmer
-1396122,1950,Wohnung,86.29,1 Schlafzimmer
-849380,1300,Studio,40,Max. 2 Personen
-1243905,1700,Wohnung,38,1 Schlafzimmer
-1467558,3000,Wohnung,55,1 Schlafzimmer
-1181806,1490,Wohnung,55,3 Schlafzimmer
-1241437,900,Wohnung,60,1 Schlafzimmer
-1466278,1490,Wohnung,42,1 Schlafzimmer
-1380822,2900,WG-Zimmer,19,3  Mitbewohner(innen)
-516161,1700,Wohnung,39,1 Schlafzimmer
-1265134,2317,Wohnung,98,2 Schlafzimmer
-1504027,2200,Wohnung,60,2 Schlafzimmer
-1483256,2123,Wohnung,58,1 Schlafzimmer
-1270003,2000,Wohnung,55,1 Schlafzimmer
-1238833,2980,Wohnung,110,2 Schlafzimmer
-1347706,2200,Wohnung,74,2 Schlafzimmer
-1359341,2000,Wohnung,95,3 Schlafzimmer
-900825,1799,Wohnung,25,1 Schlafzimmer
-1129302,3450,Studio,32,Max. 2 Personen
-1052526,1280,Wohnung,40,1 Schlafzimmer
-1482396,876,WG-Zimmer,16,7  Mitbewohner(innen)
-1143249,3400,Wohnung,70,2 Schlafzimmer
-1505033,1500,Wohnung,65,1 Schlafzimmer
-1441511,1420,Wohnung,44,1 Schlafzimmer
-1430005,4490,Wohnung,227,3 Schlafzimmer
-1363980,3350,Wohnung,89,2 Schlafzimmer
-1342797,3350,Wohnung,89,2 Schlafzimmer
-1031986,1900,Wohnung,51,1 Schlafzimmer
-1508562,1400,Studio,60,Max. 2 Personen
-1447828,999,WG-Zimmer,15,2  Mitbewohner(innen)
-1279961,1420,Studio,34,Max. 1 Person
-1220479,2090,Wohnung,85,2 Schlafzimmer
-1104657,3100,Wohnung,53,1 Schlafzimmer
-1051450,3100,Studio,24,Max. 2 Personen
-1355857,1150,WG-Zimmer,31,3  Mitbewohner(innen)
-1140753,1550,Wohnung,63,1 Schlafzimmer
-1331395,2500,Wohnung,50,2 Schlafzimmer
-429364,2000,Wohnung,70,2 Schlafzimmer
-1204204,1210,Studio,19,Max. 1 Person
-1284948,1950,Wohnung,66,1 Schlafzimmer
-1055807,3150,Wohnung,58,1 Schlafzimmer
-1361876,1175,WG-Zimmer,29,3  Mitbewohner(innen)
-1060999,2510,Wohnung,80,2 Schlafzimmer
-1281042,2450,Wohnung,80,2 Schlafzimmer
-1130051,3100,Wohnung,96,2 Schlafzimmer
-902422,1990,Wohnung,41,1 Schlafzimmer
-1074870,2190,Wohnung,50,1 Schlafzimmer
-1438129,799,Wohnung,35,1 Schlafzimmer
-1452417,800,WG-Zimmer,20,2  Mitbewohner(innen)
-1115799,4000,WG-Zimmer,11,10  Mitbewohner(innen)
-1367712,1600,Wohnung,138,3 Schlafzimmer
-1426346,1500,Studio,43,Max. 2 Personen
-1498769,1650,Wohnung,55,1 Schlafzimmer
-1465942,999,WG-Zimmer,25,2  Mitbewohner(innen)
-1266715,2978,Wohnung,65,2 Schlafzimmer
-1446309,1725,Wohnung,42,1 Schlafzimmer
-1476945,1872,Haus,82,2 Schlafzimmer
-1059535,3800,Wohnung,83,2 Schlafzimmer
-1359070,2950,Wohnung,90,2 Schlafzimmer
-1342646,2350,Wohnung,65,1 Schlafzimmer
-1468790,1799,Wohnung,25,1 Schlafzimmer
-1502160,3300,Wohnung,100,3 Schlafzimmer
-1466297,3300,Wohnung,80,3 Schlafzimmer
-1458503,3300,Wohnung,100,3 Schlafzimmer
-1236920,2600,Wohnung,85,1 Schlafzimmer
-1282862,1150,Wohnung,93,1 Schlafzimmer
-1116796,2792,WG-Zimmer,14,1 Mitbewohner(in)
-1119796,2680,Wohnung,66,3 Schlafzimmer
-1453904,2100,Wohnung,78,1 Schlafzimmer
-1511684,2600,Wohnung,90,2 Schlafzimmer
-901317,1820,Wohnung,40,1 Schlafzimmer
-1504393,1499,Wohnung,57,1 Schlafzimmer
-1476372,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1476371,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1476370,999,WG-Zimmer,15,3  Mitbewohner(innen)
-1034944,2100,Wohnung,33,1 Schlafzimmer
-1331393,3200,Wohnung,70,4 Schlafzimmer
-1115265,800,WG-Zimmer,11,10  Mitbewohner(innen)
-1331838,4000,Wohnung,160,2 Schlafzimmer
-1160208,3300,Wohnung,30,1 Schlafzimmer
-1049150,1650,Wohnung,70,1 Schlafzimmer
-1193534,1600,Wohnung,30,1 Schlafzimmer
-1383092,2400,Wohnung,60,1 Schlafzimmer
-1402930,1980,Wohnung,78,2 Schlafzimmer
-1203352,1770,Wohnung,66,1 Schlafzimmer
-1228789,1800,Wohnung,60,1 Schlafzimmer
-831446,2000,Wohnung,60,1 Schlafzimmer
-1359370,1800,Wohnung,95,3 Schlafzimmer
-1276564,1500,Studio,43,Max. 2 Personen
-1103525,2000,WG-Zimmer,32,10  Mitbewohner(innen)
-1075959,2090,Wohnung,75,2 Schlafzimmer
-1411397,2999,Wohnung,115,2 Schlafzimmer
-1127590,1400,Wohnung,35,1 Schlafzimmer
-989000,1500,Wohnung,50,1 Schlafzimmer
-1403057,2290,Wohnung,70,1 Schlafzimmer
-1109252,1890,Wohnung,85,2 Schlafzimmer
-1102374,1890,Wohnung,60,1 Schlafzimmer
-999181,1890,Wohnung,50,1 Schlafzimmer
-1084783,2200,Wohnung,45,1 Schlafzimmer
-1465035,975,WG-Zimmer,13,1 Mitbewohner(in)
-1439440,3200,Wohnung,110,1 Schlafzimmer
-1365191,1600,Wohnung,56,1 Schlafzimmer
-1427374,799,WG-Zimmer,26,2  Mitbewohner(innen)
-1283699,1485,Wohnung,44,1 Schlafzimmer
-1360152,1499,Studio,50,Max. 3 Personen
-1051323,4000,Wohnung,100,1 Schlafzimmer
-1354960,1650,Wohnung,46,1 Schlafzimmer
-1189179,2995,Wohnung,74,1 Schlafzimmer
-1370543,1950,Wohnung,60,1 Schlafzimmer
-1489443,1500,Wohnung,38,1 Schlafzimmer
-1506980,3980,Wohnung,120,4 Schlafzimmer
-1512119,1995,Wohnung,93,3 Schlafzimmer
-1300909,2590,Wohnung,107,3 Schlafzimmer
-1203609,3717,Wohnung,48,1 Schlafzimmer
-1127858,2200,Wohnung,65,2 Schlafzimmer
-1129667,3500,Studio,42,Max. 3 Personen
-1367941,2750,Wohnung,115,1 Schlafzimmer
-1231555,3150,Wohnung,102,2 Schlafzimmer
-1458535,3950,Wohnung,95,2 Schlafzimmer
-1271774,4100,Wohnung,95,3 Schlafzimmer
-1428912,6500,Wohnung,98,2 Schlafzimmer
-1239598,4050,Wohnung,200,3 Schlafzimmer
-1129303,2000,Studio,40,Max. 2 Personen
-999001,2520,Wohnung,90,2 Schlafzimmer
-1269975,2500,Wohnung,78,1 Schlafzimmer
-1160209,5000,Wohnung,32,1 Schlafzimmer
-1123477,4149,Studio,32,Max. 2 Personen
-1480494,3600,Wohnung,280,2 Schlafzimmer
-1446327,2200,Wohnung,84,1 Schlafzimmer
-1357198,3200,Studio,95,Max. 6 Personen
-1090702,3000,Wohnung,71,1 Schlafzimmer
-1271754,3800,Wohnung,84,2 Schlafzimmer
-1062246,4599,Wohnung,40,1 Schlafzimmer
-1384655,1850,Wohnung,57,2 Schlafzimmer
-1258130,1850,Wohnung,57,2 Schlafzimmer
-1123476,3849,Studio,32,Max. 2 Personen
-1236066,5500,Wohnung,60,1 Schlafzimmer
-1053406,5550,Studio,30,Max. 2 Personen
-1453907,4621,Wohnung,207,3 Schlafzimmer
-1332929,4600,Wohnung,110,3 Schlafzimmer
-1236060,4300,Studio,38,Max. 2 Personen
-1409214,2200,Wohnung,60,2 Schlafzimmer
-1457172,1300,WG-Zimmer,14,1 Mitbewohner(in)
-1073207,5249,Wohnung,51,1 Schlafzimmer
-1462107,3000,Wohnung,70,3 Schlafzimmer
-1358967,5200,Wohnung,90,2 Schlafzimmer
-1469640,1900,Wohnung,55,1 Schlafzimmer
-1413493,6900,Wohnung,290,4 Schlafzimmer
-1147243,8700,Wohnung,102,3 Schlafzimmer
-1258918,1500,Wohnung,104,2 Schlafzimmer
-1378994,8550,WG-Zimmer,30,2  Mitbewohner(innen)
-952894,9600,Wohnung,65,2 Schlafzimmer
-1258922,9600,Wohnung,132,3 Schlafzimmer
-1258921,8100,Wohnung,118,2 Schlafzimmer
-1504801,5800,Wohnung,120,3 Schlafzimmer
+ID,Price,Housing Type,Size,Note,Provider Type,Address,Rent Price Info,Listing Date
+1014572,777,Studio,21,Max. 1 Person,Studentenwohnungen,Alfred-Jung-Straße,(Nebenkosten inklusive),1. Juni
+1495641,450,WG-Zimmer,11,1 Mitbewohner(in),Studentenwohnungen,Rhinstraße,(einige Nebenkosten inklusive),1. Juni
+1019442,788,Studio,19,Max. 1 Person,Studentenwohnungen,Alfred-Jung-Straße,(Nebenkosten inklusive),16. Juni
+1508249,1350,Studio,35,Max. 2 Personen,Privater Vermieter,Oldenburger Straße,(Nebenkosten inklusive),29. Mai
+1521567,1350,Studio,48,Max. 1 Person,Privater Vermieter,Weserstraße,(Nebenkosten inklusive),3. Juni
+551278,1350,Wohnung,27,1 Schlafzimmer,Vermietungsunternehmen,Köpenicker Straße,(Nebenkosten inklusive),1. Juli
+1521622,870,Wohnung,12.21,1 Schlafzimmer,Studentenwohnungen,Leibnizstraße,(Nebenkosten inklusive),29. Mai
+1522119,995,Studio,18,Max. 1 Person,Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),1. Aug.
+1285015,659,WG-Zimmer,8,8  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten inklusive),11. Juli
+1514739,710,WG-Zimmer,10,6  Mitbewohner(innen),Vermietungsunternehmen,Turiner Straße,(Nebenkosten inklusive),29. Mai
+1054925,710,WG-Zimmer,12,4  Mitbewohner(innen),Co-living,Nazarethkirchstraße,(Nebenkosten inklusive),29. Mai
+1420792,780,WG-Zimmer,13,9  Mitbewohner(innen),Vermietungsunternehmen,Mohrenstraße,(Nebenkosten inklusive),1. Aug.
+998541,710,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Schulstraße,(Nebenkosten inklusive),1. Aug.
+749039,660,WG-Zimmer,11,4  Mitbewohner(innen),Vermietungsunternehmen,Bandelstraße,(Nebenkosten inklusive),16. Aug.
+1519963,1500,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Luisenstraße,(Nebenkosten inklusive),29. Mai
+1492254,665,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Wühlischstraße,(Nebenkosten inklusive),22. Juli
+1112135,685,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Wühlischstraße,(Nebenkosten inklusive),23. Juli
+1509833,670,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Buckower Damm,(Nebenkosten inklusive),29. Mai
+1129492,1550,Studio,55,Max. 2 Personen,Vermietungsunternehmen,Gipsstraße,(Nebenkosten inklusive),1. Juli
+749185,620,WG-Zimmer,13,2  Mitbewohner(innen),Vermietungsunternehmen,Neltestraße,(Nebenkosten inklusive),16. Juli
+870216,570,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Plönzeile,(Nebenkosten inklusive),16. Aug.
+1178825,640,WG-Zimmer,10,3  Mitbewohner(innen),Vermietungsunternehmen,Zechliner Straße,(Nebenkosten inklusive),1. Juli
+995622,690,WG-Zimmer,13,3  Mitbewohner(innen),Vermietungsunternehmen,Bismarckstraße,(Nebenkosten inklusive),1. Juli
+1315726,689,WG-Zimmer,9,5  Mitbewohner(innen),Vermietungsunternehmen,Wisbyer Straße,(Nebenkosten inklusive),10. Juli
+1235804,1220,Studio,31,Max. 2 Personen,Privater Vermieter,Reuterstraße,(Nebenkosten inklusive),5. Juni
+902458,1195,Wohnung,26,1 Schlafzimmer,Vermietungsunternehmen,Osnabrücker Straße,(Nebenkosten inklusive),28. Juni
+1363218,1350,Wohnung,33,1 Schlafzimmer,Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),5. Juli
+1236830,1350,Wohnung,33,1 Schlafzimmer,Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),5. Juli
+1069738,705,WG-Zimmer,11,4  Mitbewohner(innen),Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),5. Juli
+1025968,1350,Wohnung,32,1 Schlafzimmer,Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),5. Juli
+1236831,1350,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),18. Juli
+1172286,590,WG-Zimmer,10,7  Mitbewohner(innen),Vermietungsunternehmen,Residenzstraße,(Nebenkosten inklusive),1. Juni
+1146029,887,Studio,17,Max. 1 Person,Studentenwohnungen,Büchnerweg,(Nebenkosten inklusive),1. Sept.
+1114339,720,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),1. Juni
+1475802,720,WG-Zimmer,21,6  Mitbewohner(innen),Vermietungsunternehmen,Kantstraße,(Nebenkosten inklusive),16. Juli
+1285010,719,WG-Zimmer,10,8  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten inklusive),16. Juli
+552722,1350,Wohnung,26,1 Schlafzimmer,Vermietungsunternehmen,Köpenicker Straße,(Nebenkosten inklusive),1. Juli
+1297825,1290,Studio,22,Max. 1 Person,Vermietungsunternehmen,Reinickendorfer Straße,(Nebenkosten inklusive),1. Juli
+1258208,710,WG-Zimmer,14,12  Mitbewohner(innen),Vermietungsunternehmen,Heerstraße,(Nebenkosten inklusive),1. Juni
+1039717,710,WG-Zimmer,18,2  Mitbewohner(innen),Vermietungsunternehmen,Treseburger Ufer,(Nebenkosten inklusive),1. Juni
+1471627,640,WG-Zimmer,10,5  Mitbewohner(innen),Vermietungsunternehmen,Reinickendorfer Straße,(Nebenkosten inklusive),19. Juli
+924439,690,WG-Zimmer,13,7  Mitbewohner(innen),Vermietungsunternehmen,Sternstraße,(Nebenkosten inklusive),1. Aug.
+1522094,654,WG-Zimmer,13,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),29. Mai
+1522084,654,WG-Zimmer,13,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),29. Mai
+1522081,654,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),29. Mai
+1425595,1050,Studio,33,Max. 2 Personen,Privater Vermieter,Straße am Schildhorn,(Nebenkosten inklusive),29. Mai
+1522085,654,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),1. Juni
+1105796,640,WG-Zimmer,10,3  Mitbewohner(innen),Vermietungsunternehmen,Nürnberger Straße,(Nebenkosten inklusive),1. Juni
+1466657,1700,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Krausnickstraße,(Nebenkosten inklusive),29. Mai
+1130936,1700,Wohnung,56,1 Schlafzimmer,Privater Vermieter,Torstraße,(Nebenkosten inklusive),26. Juli
+1444048,1450,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Braunschweiger Straße,(Nebenkosten inklusive),3. Juni
+1482727,1167,Wohnung,20,1 Schlafzimmer,Vermietungsunternehmen,Hauptstraße,(Nebenkosten inklusive),19. Juli
+933304,710,WG-Zimmer,11,7  Mitbewohner(innen),Vermietungsunternehmen,Hohenzollerndamm,(Nebenkosten inklusive),1. Aug.
+1298876,740,WG-Zimmer,16,2  Mitbewohner(innen),Vermietungsunternehmen,Lauterberger Straße,(Nebenkosten inklusive),29. Mai
+1522090,1177,Studio,32,Max. 1 Person,Vermietungsunternehmen,Lindenstraße,(Nebenkosten inklusive),1. Juni
+1443738,1458,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Braunschweiger Straße,(Nebenkosten inklusive),3. Juni
+1522083,680,WG-Zimmer,13,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),29. Mai
+1039998,615,WG-Zimmer,9,6  Mitbewohner(innen),Vermietungsunternehmen,Hermannstraße,(Nebenkosten inklusive),23. Juli
+1516566,1700,Studio,20,Max. 2 Personen,Vermietungsunternehmen,Elisabethkirchstraße,(Nebenkosten inklusive),1. Aug.
+1114359,770,WG-Zimmer,14,4  Mitbewohner(innen),Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+1067675,650,WG-Zimmer,18,3  Mitbewohner(innen),Vermietungsunternehmen,Tempelhofer Weg,(Nebenkosten inklusive),1. Juni
+1007963,750,WG-Zimmer,15,2  Mitbewohner(innen),Vermietungsunternehmen,Treseburger Ufer,(Nebenkosten inklusive),1. Juni
+1007362,750,WG-Zimmer,24,1 Mitbewohner(in),Vermietungsunternehmen,Braunlager Straße,(Nebenkosten inklusive),1. Juli
+906192,650,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Flughafenstraße,(Nebenkosten inklusive),1. Juli
+1267910,760,WG-Zimmer,21,8  Mitbewohner(innen),Vermietungsunternehmen,Uhlandstraße,(Nebenkosten inklusive),1. Aug.
+998446,760,WG-Zimmer,20,1 Mitbewohner(in),Vermietungsunternehmen,Friedrichsbrunner Straße,(Nebenkosten inklusive),1. Aug.
+1521856,1950,Studio,47,Max. 1 Person,Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+1521854,1950,Studio,47,Max. 1 Person,Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+1521853,1950,Studio,47,Max. 1 Person,Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+888743,1500,Wohnung,45,1 Schlafzimmer,Privater Vermieter,Bergmannstraße,(Nebenkosten inklusive),29. Mai
+1518893,1500,Wohnung,54,1 Schlafzimmer,Vermietungsunternehmen,Proskauer Straße,(Nebenkosten inklusive),1. Juni
+1522105,1218,Studio,30,Max. 1 Person,Vermietungsunternehmen,Allee der Kosmonauten,(Nebenkosten inklusive),1. Juli
+1205913,750,WG-Zimmer,16,5  Mitbewohner(innen),Vermietungsunternehmen,Köpenicker Straße,(Nebenkosten inklusive),1. Juli
+1129231,750,WG-Zimmer,15,6  Mitbewohner(innen),Vermietungsunternehmen,Köpenicker Straße,(Nebenkosten inklusive),1. Juli
+1007271,790,WG-Zimmer,14,4  Mitbewohner(innen),Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),1. Juli
+1007259,770,WG-Zimmer,18,2  Mitbewohner(innen),Vermietungsunternehmen,Potsdamer Straße,(Nebenkosten inklusive),1. Juli
+1101026,690,WG-Zimmer,11,7  Mitbewohner(innen),Vermietungsunternehmen,Weimarische Straße,(Nebenkosten inklusive),1. Aug.
+1477310,640,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Spiegelweg,(Nebenkosten inklusive),4. Aug.
+1100117,1125,Wohnung,38,1 Schlafzimmer,Privater Vermieter,Wildenbruchstraße,(Nebenkosten inklusive),1. Nov.
+1245179,1380,Studio,36,Max. 2 Personen,Vermietungsunternehmen,Knaackstraße,(einige Nebenkosten inklusive),1. Juni
+1114275,800,WG-Zimmer,14,5  Mitbewohner(innen),Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+1034162,1650,Studio,41,Max. 2 Personen,Vermietungsunternehmen,Inselstraße,(Nebenkosten inklusive),1. Juni
+1448608,749,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Neue Bahnhofstraße,(Nebenkosten inklusive),1. Juli
+1375550,1800,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Bergstraße,(Nebenkosten inklusive),1. Juli
+996718,630,WG-Zimmer,11,10  Mitbewohner(innen),Vermietungsunternehmen,Kantstraße,(Nebenkosten inklusive),1. Juli
+1138857,799,WG-Zimmer,10,2  Mitbewohner(innen),Vermietungsunternehmen,Wisbyer Straße,(Nebenkosten inklusive),4. Juli
+1323706,799,WG-Zimmer,13,2  Mitbewohner(innen),Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),23. Juli
+1105846,700,WG-Zimmer,10,3  Mitbewohner(innen),Vermietungsunternehmen,Zwinglistraße,(Nebenkosten inklusive),1. Aug.
+1467238,1300,Wohnung,40,1 Schlafzimmer,Privater Vermieter,Otto-Braun-Straße,(Nebenkosten inklusive),1. Juli
+982472,1300,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Heidenfeldstraße,(Nebenkosten inklusive),1. Juli
+1297824,1090,Studio,22,Max. 1 Person,Vermietungsunternehmen,Reinickendorfer Straße,(Nebenkosten inklusive),29. Mai
+998550,800,WG-Zimmer,13,2  Mitbewohner(innen),Vermietungsunternehmen,Potsdamer Straße,(Nebenkosten inklusive),1. Aug.
+1039822,700,WG-Zimmer,13,6  Mitbewohner(innen),Vermietungsunternehmen,Soldiner Straße,(Nebenkosten inklusive),16. Aug.
+1254734,750,WG-Zimmer,15,4  Mitbewohner(innen),Studentenwohnungen,Leibnizstraße,(Nebenkosten inklusive),29. Mai
+1268408,1429,Studio,20,Max. 1 Person,Co-living,Pestalozzistraße,(Nebenkosten inklusive),1. Juni
+1102786,650,WG-Zimmer,13,7  Mitbewohner(innen),Vermietungsunternehmen,Martin-Luther-Straße,(Nebenkosten inklusive),16. Juni
+1507937,1600,Studio,45,Max. 2 Personen,Privater Vermieter,Kurfürstendamm,(einige Nebenkosten inklusive),29. Mai
+1110670,1200,Studio,25,Max. 2 Personen,Vermietungsunternehmen,Buchholzer Straße,(Nebenkosten inklusive),29. Mai
+810647,680,WG-Zimmer,11,5  Mitbewohner(innen),Vermietungsunternehmen,Damerowstraße,(Nebenkosten inklusive),1. Juli
+717023,660,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Petersburger Straße,(Nebenkosten inklusive),1. Juli
+1099619,625,WG-Zimmer,9,5  Mitbewohner(innen),Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),5. Juli
+1493867,695,WG-Zimmer,12,2  Mitbewohner(innen),Vermietungsunternehmen,Simmelstraße,(Nebenkosten inklusive),1. Aug.
+1476189,715,WG-Zimmer,12,4  Mitbewohner(innen),Vermietungsunternehmen,Libauer Straße,(Nebenkosten inklusive),4. Aug.
+1489802,785,WG-Zimmer,12,2  Mitbewohner(innen),Vermietungsunternehmen,Sültstraße,(Nebenkosten inklusive),29. Mai
+1521540,1700,Wohnung,50,1 Schlafzimmer,Vermietungsunternehmen,Schönhauser Allee,(Nebenkosten inklusive),29. Mai
+1343795,1350,Studio,31,Max. 1 Person,Vermietungsunternehmen,Mariannenplatz,(Nebenkosten inklusive),29. Mai
+661903,1350,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Emser Straße,(Nebenkosten inklusive),1. Juni
+511768,1350,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Eisenbahnstraße,(Nebenkosten inklusive),1. Juni
+969398,580,WG-Zimmer,7,3  Mitbewohner(innen),Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),16. Juni
+999229,1390,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Helmholtzstraße,(Nebenkosten inklusive),20. Juni
+1452399,499,WG-Zimmer,20,5  Mitbewohner(innen),Privater Vermieter,Tollerstraße,(Nebenkosten inklusive),1. Juli
+1072731,1700,Wohnung,46,1 Schlafzimmer,Privater Vermieter,Brandenburgische Straße,(Nebenkosten inklusive),1. Juli
+1510998,1735,Wohnung,76,2 Schlafzimmer,Vermietungsunternehmen,Donaustraße,(Nebenkosten inklusive),1. Juni
+1444076,1735,Wohnung,52,1 Schlafzimmer,Vermietungsunternehmen,Braunschweiger Straße,(Nebenkosten inklusive),3. Juni
+1452113,825,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Tauroggener Straße,(Nebenkosten inklusive),4. Juni
+1521578,1495,Wohnung,52,1 Schlafzimmer,Vermietungsunternehmen,Schweidnitzer Straße,(Nebenkosten inklusive),15. Juni
+1025928,950,WG-Zimmer,16,2  Mitbewohner(innen),Co-living,Stralauer Allee,(Nebenkosten inklusive),17. Juni
+1029808,710,WG-Zimmer,11,2  Mitbewohner(innen),Vermietungsunternehmen,Kottbusser Damm,(Nebenkosten inklusive),1. Juli
+1100932,660,WG-Zimmer,13,3  Mitbewohner(innen),Vermietungsunternehmen,Stephanstraße,(Nebenkosten inklusive),1. Aug.
+1027565,950,WG-Zimmer,17,2  Mitbewohner(innen),Vermietungsunternehmen,Markgrafendamm,(Nebenkosten inklusive),1. Aug.
+1424983,850,WG-Zimmer,18,2  Mitbewohner(innen),Vermietungsunternehmen,Lindauer Allee,(Nebenkosten inklusive),1. Juli
+1177584,907,Studio,17,Max. 1 Person,Studentenwohnungen,Stralsunder Straße,(Nebenkosten inklusive),16. Juli
+1025523,650,WG-Zimmer,8,3  Mitbewohner(innen),Vermietungsunternehmen,Kottbusser Damm,(Nebenkosten inklusive),1. Aug.
+998444,700,WG-Zimmer,16,2  Mitbewohner(innen),Vermietungsunternehmen,Lauterberger Straße,(Nebenkosten inklusive),1. Aug.
+1515486,845,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Einbecker Straße,(Nebenkosten inklusive),4. Aug.
+1211840,790,WG-Zimmer,20,2  Mitbewohner(innen),Vermietungsunternehmen,Palisadenstraße,(Nebenkosten inklusive),8. Juli
+1451733,956,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Wilhelmstraße,(Nebenkosten inklusive),19. Juli
+1108034,740,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten exklusive),1. Aug.
+1135689,1050,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Dolziger Straße,(Nebenkosten exklusive),1. Aug.
+1451742,805,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),4. Aug.
+1110668,1000,Studio,18,Max. 2 Personen,Vermietungsunternehmen,Buchholzer Straße,(Nebenkosten inklusive),1. Okt.
+1514665,780,WG-Zimmer,10,5  Mitbewohner(innen),Vermietungsunternehmen,Turiner Straße,(Nebenkosten inklusive),29. Mai
+1432927,1400,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Pücklerstraße,(Nebenkosten inklusive),1. Juli
+1414724,1850,Wohnung,55,2 Schlafzimmer,Privater Vermieter,Koppenstraße,(Nebenkosten inklusive),1. Juli
+964148,680,WG-Zimmer,11,7  Mitbewohner(innen),Vermietungsunternehmen,Hohenzollerndamm,(Nebenkosten inklusive),1. Juli
+632413,1400,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Böckhstraße,(Nebenkosten inklusive),1. Juli
+1521613,600,WG-Zimmer,16.22,4  Mitbewohner(innen),Studentenwohnungen,Leibnizstraße,(Nebenkosten inklusive),29. Mai
+1508538,650,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Glienicker Straße,(Nebenkosten inklusive),29. Mai
+1508534,650,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Glienicker Straße,(Nebenkosten inklusive),29. Mai
+1272350,1295,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Immanuelkirchstraße,(Nebenkosten inklusive),1. Juni
+1304059,1900,Wohnung,61,1 Schlafzimmer,Privater Vermieter,Kurfürstenstraße,(Nebenkosten inklusive),1. Juli
+1441420,836,WG-Zimmer,12,4  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),19. Juli
+1508515,650,WG-Zimmer,14,4  Mitbewohner(innen),Vermietungsunternehmen,Glienicker Straße,(Nebenkosten inklusive),1. Aug.
+1446508,1725,Wohnung,59,1 Schlafzimmer,Privater Vermieter,Grünauer Straße,(einige Nebenkosten inklusive),1. Aug.
+1120573,1140,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Jansastraße,(Nebenkosten inklusive),10. Nov.
+1521143,700,Wohnung,25,1 Schlafzimmer,Privater Vermieter,Wollankstraße,(Nebenkosten inklusive),29. Mai
+1501618,770,WG-Zimmer,11,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),29. Mai
+1490166,770,WG-Zimmer,12,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),29. Mai
+1489808,770,WG-Zimmer,10,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),29. Mai
+1464381,930,WG-Zimmer,34,,Vermietungsunternehmen,Müllerstraße,(Nebenkosten exklusive),29. Mai
+1000480,1290,Studio,43,Max. 2 Personen,Vermietungsunternehmen,Brüsseler Straße,(Nebenkosten inklusive),29. Mai
+1087724,675,WG-Zimmer,9,2  Mitbewohner(innen),Vermietungsunternehmen,Gabriel-Max-Straße,(Nebenkosten inklusive),18. Juni
+1240098,1800,Wohnung,65,1 Schlafzimmer,Vermietungsunternehmen,Lückstraße,(Nebenkosten inklusive),1. Juli
+1100960,650,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Petersburger Straße,(Nebenkosten inklusive),1. Juli
+1036578,615,WG-Zimmer,9,2  Mitbewohner(innen),Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),8. Juli
+1101300,650,WG-Zimmer,9,7  Mitbewohner(innen),Vermietungsunternehmen,Weimarische Straße,(Nebenkosten inklusive),1. Aug.
+1077727,650,WG-Zimmer,8,3  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),1. Aug.
+753762,650,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Alt-Moabit,(Nebenkosten inklusive),1. Aug.
+1471580,881,WG-Zimmer,12,4  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),19. Aug.
+1522096,1597,Wohnung,47,1 Schlafzimmer,Vermietungsunternehmen,Lehrter Straße,(Nebenkosten inklusive),29. Mai
+760812,770,WG-Zimmer,17,2  Mitbewohner(innen),Privater Vermieter,Lübener Weg,(Nebenkosten inklusive),29. Mai
+1522098,1172,Studio,36,Max. 1 Person,Vermietungsunternehmen,Lindenstraße,(Nebenkosten inklusive),1. Juni
+1000641,1895,Wohnung,48,2 Schlafzimmer,Co-living,Kurfürstenstraße,(Nebenkosten inklusive),1. Juni
+1503856,895,WG-Zimmer,16,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),4. Juni
+997751,1490,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Karl-Kunger-Straße,(Nebenkosten inklusive),10. Juni
+967576,1320,Wohnung,32,1 Schlafzimmer,Vermietungsunternehmen,Thaerstraße,(Nebenkosten inklusive),8. Juli
+1510238,2800,Wohnung,114,3 Schlafzimmer,Privater Vermieter,Kienitzer Straße,(Nebenkosten inklusive),29. Juli
+944036,770,WG-Zimmer,17,2  Mitbewohner(innen),Privater Vermieter,Lübener Weg,(Nebenkosten inklusive),1. Aug.
+1517794,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517793,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517792,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517790,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517789,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517787,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517786,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1517784,325,Mehrbettzimmer,16,9  Mitbewohner(innen),Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+998549,740,WG-Zimmer,12,2  Mitbewohner(innen),Vermietungsunternehmen,Potsdamer Straße,(Nebenkosten inklusive),1. Juli
+1051715,699,WG-Zimmer,11,2  Mitbewohner(innen),Vermietungsunternehmen,Boxhagener Straße,(Nebenkosten inklusive),5. Juli
+1026031,699,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten inklusive),8. Juli
+996678,770,WG-Zimmer,22,10  Mitbewohner(innen),Vermietungsunternehmen,Kantstraße,(Nebenkosten inklusive),1. Aug.
+1522092,685,WG-Zimmer,14,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),29. Mai
+1506925,650,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Scharnweberstraße,(Nebenkosten inklusive),29. Mai
+1495132,1498,Wohnung,51,1 Schlafzimmer,Vermietungsunternehmen,Okerstraße,(Nebenkosten exklusive),29. Mai
+1309533,1595,Studio,42,Max. 1 Person,Privater Vermieter,Ansbacher Straße,(einige Nebenkosten inklusive),29. Mai
+1426194,999,WG-Zimmer,27,2  Mitbewohner(innen),Vermietungsunternehmen,Herrenhausstraße,(Nebenkosten inklusive),11. Aug.
+1484068,999,WG-Zimmer,25,2  Mitbewohner(innen),Vermietungsunternehmen,Herrenhausstraße,(Nebenkosten inklusive),15. Aug.
+1512545,610,WG-Zimmer,13,10  Mitbewohner(innen),Vermietungsunternehmen,Winckelmannstraße,(Nebenkosten inklusive),29. Mai
+1512473,610,WG-Zimmer,11,10  Mitbewohner(innen),Vermietungsunternehmen,Winckelmannstraße,(Nebenkosten inklusive),29. Mai
+688281,625,WG-Zimmer,13,5  Mitbewohner(innen),Studentenwohnungen,Mollstraße,(Nebenkosten inklusive),1. Juni
+1461212,1200,Wohnung,20,1 Schlafzimmer,Vermietungsunternehmen,Hauptstraße,(Nebenkosten inklusive),22. Juni
+1066637,750,WG-Zimmer,17,7  Mitbewohner(innen),Vermietungsunternehmen,Potsdamer Straße,(Nebenkosten inklusive),2. Juli
+1026023,689,WG-Zimmer,9,7  Mitbewohner(innen),Vermietungsunternehmen,Hermannstraße,(Nebenkosten inklusive),10. Juli
+1510095,1950,Wohnung,47,1 Schlafzimmer,Vermietungsunternehmen,Cunostraße,(Nebenkosten inklusive),29. Mai
+1336600,1600,Wohnung,59,1 Schlafzimmer,Privater Vermieter,Lübecker Straße,(Nebenkosten inklusive),29. Mai
+1156029,2195,Wohnung,85,3 Schlafzimmer,Vermietungsunternehmen,Angerburger Allee,(Nebenkosten inklusive),29. Mai
+1521275,1500,Wohnung,71,3 Schlafzimmer,Privater Vermieter,Leibnizstraße,(Nebenkosten inklusive),1. Juni
+1458208,945,WG-Zimmer,22,2  Mitbewohner(innen),Vermietungsunternehmen,Fechnerstraße,(Nebenkosten inklusive),4. Juni
+1055395,2150,Wohnung,88,2 Schlafzimmer,Vermietungsunternehmen,Am Tempelhofer Berg,(Nebenkosten inklusive),17. Juni
+1439077,870,WG-Zimmer,10,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),4. Juli
+1510948,870,WG-Zimmer,11,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),4. Juli
+1412847,2100,Wohnung,60,1 Schlafzimmer,Vermietungsunternehmen,Auguststraße,(Nebenkosten inklusive),27. Juli
+1043629,650,WG-Zimmer,10,5  Mitbewohner(innen),Vermietungsunternehmen,Karl-Marx-Straße,(Nebenkosten inklusive),1. Aug.
+996780,1480,Wohnung,50,1 Schlafzimmer,Vermietungsunternehmen,Alarichstraße,(Nebenkosten inklusive),1. Aug.
+1461530,985,WG-Zimmer,17,3  Mitbewohner(innen),Vermietungsunternehmen,Kollwitzstraße,(Nebenkosten inklusive),4. Aug.
+1516939,1250,Studio,39,Max. 2 Personen,Vermietungsunternehmen,Eisackstraße,(Nebenkosten inklusive),29. Mai
+1142909,425,Mehrbettzimmer,20,5  Mitbewohner(innen),Studentenwohnungen,Waldstraße,(Nebenkosten inklusive),29. Mai
+1462035,2000,Wohnung,75,1 Schlafzimmer,Studentenwohnungen,Reinickendorfer Straße,(Nebenkosten inklusive),29. Mai
+1077386,1800,Wohnung,28,1 Schlafzimmer,Vermietungsunternehmen,Bänschstraße,(Nebenkosten inklusive),29. Mai
+915291,795,WG-Zimmer,18,2  Mitbewohner(innen),Co-living,Leibnizstraße,(Nebenkosten inklusive),1. Aug.
+1449035,1800,Wohnung,50,2 Schlafzimmer,Vermietungsunternehmen,Hechelstraße,(Nebenkosten inklusive),18. Aug.
+1520285,1850,Studio,44,Max. 2 Personen,Privater Vermieter,Kuglerstraße,(Nebenkosten inklusive),29. Mai
+1489278,810,WG-Zimmer,18,2  Mitbewohner(innen),Vermietungsunternehmen,Zeitzer Straße,(Nebenkosten inklusive),29. Mai
+1447059,810,WG-Zimmer,20,2  Mitbewohner(innen),Vermietungsunternehmen,Sonnenallee,(Nebenkosten inklusive),29. Mai
+1512504,630,WG-Zimmer,10,10  Mitbewohner(innen),Vermietungsunternehmen,Winckelmannstraße,(Nebenkosten inklusive),29. Mai
+1082677,1035,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Stephanstraße,(Nebenkosten inklusive),29. Mai
+999242,1590,Wohnung,58,1 Schlafzimmer,Vermietungsunternehmen,Stephanstraße,(Nebenkosten inklusive),29. Mai
+1476264,1035,WG-Zimmer,12,3  Mitbewohner(innen),Vermietungsunternehmen,Kollwitzstraße,(Nebenkosten inklusive),4. Aug.
+1427145,1658,Wohnung,55,1 Schlafzimmer,Vermietungsunternehmen,Weinbergsweg,(Nebenkosten exklusive),1. Sept.
+1118007,600,WG-Zimmer,12,2  Mitbewohner(innen),Studentenwohnungen,Grunewaldstraße,(Nebenkosten inklusive),29. Mai
+868480,675,WG-Zimmer,12,4  Mitbewohner(innen),Studentenwohnungen,Lübbener Straße,(Nebenkosten inklusive),1. Juni
+1514957,1045,WG-Zimmer,18,3  Mitbewohner(innen),Vermietungsunternehmen,Otto-Suhr-Allee,(Nebenkosten inklusive),18. Juli
+1459993,1450,Wohnung,47,1 Schlafzimmer,Privater Vermieter,Kurstraße,(Nebenkosten inklusive),1. Aug.
+1118521,1900,Wohnung,69,1 Schlafzimmer,Co-living,Markgrafendamm,(Nebenkosten inklusive),1. Aug.
+1044170,1900,Wohnung,67,1 Schlafzimmer,Vermietungsunternehmen,Nürnberger Straße,(Nebenkosten inklusive),1. Aug.
+1041815,675,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),24. Juli
+1115663,1490,Studio,24,Max. 2 Personen,Vermietungsunternehmen,Brunnenstraße,(Nebenkosten inklusive),31. Juli
+840658,710,WG-Zimmer,10,7  Mitbewohner(innen),Vermietungsunternehmen,Lübbener Straße,(Nebenkosten inklusive),1. Aug.
+1147981,690,WG-Zimmer,13,3  Mitbewohner(innen),Vermietungsunternehmen,Reginhardstraße,(Nebenkosten inklusive),1. Sept.
+1121528,1800,Wohnung,50,2 Schlafzimmer,Vermietungsunternehmen,Sansibarstraße,(Nebenkosten inklusive),29. Mai
+753547,1300,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Wilmsstraße,(Nebenkosten inklusive),29. Mai
+712085,1300,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Böckhstraße,(Nebenkosten inklusive),1. Sept.
+511416,1300,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Böckhstraße,(Nebenkosten inklusive),1. Sept.
+1403191,749,WG-Zimmer,9,3  Mitbewohner(innen),Vermietungsunternehmen,Holteistraße,(Nebenkosten inklusive),5. Juli
+1039029,650,WG-Zimmer,8,3  Mitbewohner(innen),Vermietungsunternehmen,Wrangelstraße,(Nebenkosten inklusive),9. Juli
+1512315,1275,Wohnung,20,1 Schlafzimmer,Vermietungsunternehmen,Ingrid-Reschke-Straße,(Nebenkosten inklusive),19. Juli
+1522121,798,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),1. Aug.
+1461208,650,WG-Zimmer,9,5  Mitbewohner(innen),Vermietungsunternehmen,Sterndamm,(Nebenkosten inklusive),1. Aug.
+1257950,750,WG-Zimmer,20,5  Mitbewohner(innen),Vermietungsunternehmen,Warschauer Straße,(Nebenkosten inklusive),1. Aug.
+1188398,650,WG-Zimmer,8,3  Mitbewohner(innen),Vermietungsunternehmen,Hainstraße,(Nebenkosten inklusive),1. Aug.
+1127246,1550,Wohnung,50,1 Schlafzimmer,Privater Vermieter,Crusemarkstraße,(Nebenkosten inklusive),1. Aug.
+1139307,1450,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Frankfurter Allee,(Nebenkosten inklusive),1. Okt.
+915308,850,WG-Zimmer,16,2  Mitbewohner(innen),Co-living,Bismarckstraße,(Nebenkosten inklusive),1. Juli
+1469610,695,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Pintschstraße,(Nebenkosten inklusive),4. Juli
+1513212,649,WG-Zimmer,23,1 Mitbewohner(in),Privater Vermieter,Trachtenbrodtstraße,(Nebenkosten inklusive),15. Juli
+1459030,1003,WG-Zimmer,16,1 Mitbewohner(in),Vermietungsunternehmen,Togostraße,(Nebenkosten inklusive),19. Juli
+1007254,690,WG-Zimmer,11,4  Mitbewohner(innen),Vermietungsunternehmen,Rheinstraße,(Nebenkosten inklusive),16. Aug.
+1463001,1490,Studio,30,Max. 2 Personen,Privater Vermieter,Spandauer Damm,(Nebenkosten inklusive),29. Mai
+1411775,1250,WG-Zimmer,19,4  Mitbewohner(innen),Vermietungsunternehmen,Ifflandstraße,(Nebenkosten inklusive),29. Mai
+1226046,1590,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Am Flughafen,(Nebenkosten inklusive),10. Juni
+1040337,1290,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Korsörer Straße,(Nebenkosten inklusive),24. Juli
+1519036,1010,WG-Zimmer,17,3  Mitbewohner(innen),Vermietungsunternehmen,Treuchtlinger Straße,(Nebenkosten inklusive),4. Aug.
+1455024,727,WG-Zimmer,11,3  Mitbewohner(innen),Vermietungsunternehmen,Hüttenroder Weg,(Nebenkosten inklusive),4. Aug.
+1453493,932,WG-Zimmer,15,2  Mitbewohner(innen),Vermietungsunternehmen,Wedekindstraße,(Nebenkosten inklusive),4. Aug.
+1477897,1650,Wohnung,61,1 Schlafzimmer,Privater Vermieter,Jagowstraße,(Nebenkosten inklusive),1. Sept.
+1485489,2420,Wohnung,75,1 Schlafzimmer,Vermietungsunternehmen,Friesickestraße,(Nebenkosten inklusive),1. Okt.
+1317898,750,WG-Zimmer,17,2  Mitbewohner(innen),Vermietungsunternehmen,Glockenturmstraße,(Nebenkosten inklusive),29. Mai
+516186,1350,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Mittenwalder Straße,(Nebenkosten inklusive),1. Sept.
+1492272,1350,Studio,25,Max. 2 Personen,Vermietungsunternehmen,Markgrafendamm,(Nebenkosten inklusive),6. Sept.
+517332,1350,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Jansastraße,(Nebenkosten inklusive),1. Okt.
+1491634,1350,Studio,25,Max. 2 Personen,Vermietungsunternehmen,Markgrafendamm,(Nebenkosten inklusive),7. Okt.
+1517708,1100,WG-Zimmer,14,1 Mitbewohner(in),Privater Vermieter,Bornstedter Straße,(Nebenkosten inklusive),29. Mai
+1385072,1100,WG-Zimmer,26,3  Mitbewohner(innen),Vermietungsunternehmen,Bredowstraße,(Nebenkosten inklusive),29. Mai
+1263358,1700,Wohnung,70,2 Schlafzimmer,Vermietungsunternehmen,Mariendorfer Damm,(Nebenkosten inklusive),1. Juni
+1191965,1690,Wohnung,51,1 Schlafzimmer,Vermietungsunternehmen,Goethestraße,(Nebenkosten inklusive),5. Juni
+868746,650,WG-Zimmer,12,4  Mitbewohner(innen),Studentenwohnungen,Lübbener Straße,(Nebenkosten inklusive),1. Juni
+868487,650,WG-Zimmer,12,4  Mitbewohner(innen),Studentenwohnungen,Lübbener Straße,(Nebenkosten inklusive),1. Juni
+1330731,1950,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),16. Juni
+1330603,1950,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),30. Juni
+1330325,1950,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),1. Juli
+1015431,690,WG-Zimmer,11,2  Mitbewohner(innen),Vermietungsunternehmen,Braunlager Straße,(Nebenkosten exklusive),1. Juli
+1330729,1950,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),1. Aug.
+1177626,1750,Wohnung,56,1 Schlafzimmer,Vermietungsunternehmen,Krossener Straße,(Nebenkosten inklusive),1. Aug.
+1016872,700,WG-Zimmer,11,3  Mitbewohner(innen),Vermietungsunternehmen,Charlottenstraße,(Nebenkosten inklusive),1. Aug.
+1172335,2100,Wohnung,80,1 Schlafzimmer,Privater Vermieter,Torstraße,(Nebenkosten inklusive),1. Sept.
+1498386,1250,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Spandauer Damm,(Nebenkosten inklusive),6. Nov.
+1521550,1800,Wohnung,52,1 Schlafzimmer,Vermietungsunternehmen,Schönhauser Allee,(Nebenkosten inklusive),29. Mai
+1189492,1040,Studio,22,Max. 1 Person,Studentenwohnungen,Reinickendorfer Straße,(Nebenkosten inklusive),29. Mai
+987469,1800,Wohnung,64,1 Schlafzimmer,Vermietungsunternehmen,Bleibtreustraße,(Nebenkosten inklusive),29. Mai
+511560,1800,Wohnung,105,2 Schlafzimmer,Vermietungsunternehmen,Tempelherrenstraße,(Nebenkosten inklusive),29. Mai
+804970,560,WG-Zimmer,8,5  Mitbewohner(innen),Vermietungsunternehmen,Damerowstraße,(Nebenkosten inklusive),1. Juni
+1455035,970,WG-Zimmer,15,3  Mitbewohner(innen),Vermietungsunternehmen,Boyenstraße,(Nebenkosten inklusive),4. Juni
+1134403,1990,Wohnung,110,2 Schlafzimmer,Privater Vermieter,Florastraße,(Nebenkosten exklusive),1. Juli
+1039619,725,WG-Zimmer,10,1 Mitbewohner(in),Vermietungsunternehmen,Immanuelkirchstraße,(Nebenkosten inklusive),10. Juli
+964108,750,WG-Zimmer,17,7  Mitbewohner(innen),Vermietungsunternehmen,Hohenzollerndamm,(Nebenkosten inklusive),16. Aug.
+1033065,1370,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Landhausstraße,(Nebenkosten inklusive),7. Nov.
+1511703,1350,Studio,40,Max. 3 Personen,Vermietungsunternehmen,Wilhelminenhofstraße,(Nebenkosten inklusive),29. Mai
+1508265,3000,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Behrenstraße,(Nebenkosten inklusive),29. Mai
+1447873,1400,Wohnung,42,1 Schlafzimmer,Vermietungsunternehmen,Kurfürstendamm,(Nebenkosten inklusive),29. Mai
+1465914,620,WG-Zimmer,8,3  Mitbewohner(innen),Vermietungsunternehmen,Otto-Franke-Straße,(Nebenkosten inklusive),1. Sept.
+1197059,1100,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Gustav-Müller-Straße,(Nebenkosten inklusive),1. Sept.
+748549,945,Studio,17,Max. 1 Person,Studentenwohnungen,Stralsunder Straße,(Nebenkosten inklusive),1. Sept.
+1197056,1100,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Gustav-Müller-Straße,(Nebenkosten inklusive),7. Okt.
+1120654,1350,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Mollstraße,(Nebenkosten inklusive),27. Nov.
+1506320,2200,Wohnung,28,1 Schlafzimmer,Vermietungsunternehmen,Kurfürstendamm,(Nebenkosten inklusive),29. Mai
+1480757,746,WG-Zimmer,11,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),29. Mai
+1043981,1050,Studio,33,Max. 2 Personen,Privater Vermieter,Straße am Schildhorn,(Nebenkosten inklusive),29. Mai
+1515142,1950,Wohnung,70,1 Schlafzimmer,Privater Vermieter,Stubbenkammerstraße,(Nebenkosten inklusive),31. Aug.
+1399849,1200,Studio,25,Max. 1 Person,Vermietungsunternehmen,Tegeler Straße ,(Nebenkosten inklusive),8. Juli
+1470974,1480,Wohnung,38,1 Schlafzimmer,Privater Vermieter,Mierendorffstraße,(Nebenkosten inklusive),29. Mai
+1514953,375,Mehrbettzimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Hackenbergstraße,(Nebenkosten inklusive),29. Mai
+1522107,1450,Studio,36,Max. 1 Person,Vermietungsunternehmen,Lindenstraße,(Nebenkosten inklusive),16. Juni
+1339681,2600,Wohnung,85,3 Schlafzimmer,Vermietungsunternehmen,Linienstraße,(Nebenkosten inklusive),29. Mai
+1522246,1500,Wohnung,53,2 Schlafzimmer,Privater Vermieter,Orber Straße,(Nebenkosten inklusive),14. Juni
+1522124,903,WG-Zimmer,12,5  Mitbewohner(innen),Vermietungsunternehmen,Rathenaustraße,(Nebenkosten inklusive),16. Aug.
+915292,695,WG-Zimmer,14,2  Mitbewohner(innen),Co-living,Leibnizstraße,(Nebenkosten inklusive),1. Sept.
+996403,895,WG-Zimmer,10,2  Mitbewohner(innen),Co-living,Leibnizstraße,(Nebenkosten inklusive),1. Juni
+1281232,3095,Wohnung,95,2 Schlafzimmer,Vermietungsunternehmen,Michaelkirchstraße,(Nebenkosten exklusive),2. Aug.
+1269785,2497,Wohnung,76,1 Schlafzimmer,Vermietungsunternehmen,Beusselstraße,(Nebenkosten exklusive),1. Okt.
+1043048,1089,Studio,39,Max. 1 Person,Privater Vermieter,Seddinpromenade,(einige Nebenkosten inklusive),3. Juni
+1426334,2132,Studio,19,Max. 1 Person,Vermietungsunternehmen,Albrecht-Achilles-Straße,(Nebenkosten inklusive),4. Juni
+1271806,3033,Wohnung,81,2 Schlafzimmer,Vermietungsunternehmen,Stargarder Straße,(Nebenkosten exklusive),1. Okt.
+1109003,2178,Wohnung,56,1 Schlafzimmer,Vermietungsunternehmen,Rognitzstraße,(Nebenkosten inklusive),29. Mai
+1408032,775,WG-Zimmer,10,2  Mitbewohner(innen),Privater Vermieter,Dunckerstraße,(Nebenkosten exklusive),1. Juli
+1361959,1100,WG-Zimmer,15,2  Mitbewohner(innen),Vermietungsunternehmen,Martin-Opitz-Straße,(Nebenkosten exklusive),1. Juli
+1264225,799,WG-Zimmer,20,3  Mitbewohner(innen),Vermietungsunternehmen,Malchower Weg,(Nebenkosten inklusive),1. Juli
+1454580,875,WG-Zimmer,15,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),19. Juli
+996653,720,WG-Zimmer,12,10  Mitbewohner(innen),Vermietungsunternehmen,Kantstraße,(Nebenkosten inklusive),1. Aug.
+977820,1180,Wohnung,33,1 Schlafzimmer,Vermietungsunternehmen,Heimstraße,(Nebenkosten inklusive),24. Nov.
+1509620,2285,Wohnung,79,2 Schlafzimmer,Privater Vermieter,Weserstraße,(einige Nebenkosten inklusive),29. Mai
+1491939,1600,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Rodenbergstraße,(Nebenkosten inklusive),29. Mai
+999247,2200,Wohnung,70,2 Schlafzimmer,Vermietungsunternehmen,Stephanstraße,(Nebenkosten inklusive),15. Juli
+1452401,799,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Hertzstraße,(Nebenkosten inklusive),1. Aug.
+756825,1195,Studio,23,Max. 2 Personen,Vermietungsunternehmen,Rückertstraße,(Nebenkosten inklusive),1. Aug.
+1513322,1600,Wohnung,60,2 Schlafzimmer,Privater Vermieter,Gasteiner Straße,(Nebenkosten inklusive),19. Sept.
+1066864,750,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Petersburger Straße,(Nebenkosten inklusive),1. Okt.
+1452737,665,WG-Zimmer,13,3  Mitbewohner(innen),Vermietungsunternehmen,Adolfstraße,(Nebenkosten inklusive),29. Mai
+1499138,1500,Wohnung,70,2 Schlafzimmer,Privater Vermieter,Kantstraße,(Nebenkosten inklusive),29. Mai
+997676,1290,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Hobrechtstraße,(Nebenkosten inklusive),29. Mai
+1472608,999,WG-Zimmer,15,2  Mitbewohner(innen),Privater Vermieter,Schönhauser Allee,(Nebenkosten inklusive),29. Mai
+1472128,999,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Revaler Straße,(Nebenkosten inklusive),29. Mai
+1466228,999,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Emser Straße,(Nebenkosten inklusive),29. Mai
+1466152,999,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Emser Straße,(Nebenkosten inklusive),29. Mai
+1465135,999,WG-Zimmer,30,2  Mitbewohner(innen),Privater Vermieter,Müggelstraße,(Nebenkosten inklusive),29. Mai
+1465134,999,WG-Zimmer,30,2  Mitbewohner(innen),Privater Vermieter,Müggelstraße,(Nebenkosten inklusive),29. Mai
+1464376,999,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Schivelbeiner Straße,(Nebenkosten inklusive),29. Mai
+1464375,999,WG-Zimmer,20,3  Mitbewohner(innen),Privater Vermieter,Schivelbeiner Straße,(Nebenkosten inklusive),29. Mai
+1360944,1038,WG-Zimmer,25,,Vermietungsunternehmen,Paul-Robeson-Straße,(Nebenkosten exklusive),29. Mai
+1136739,1340,Studio,30,Max. 1 Person,Vermietungsunternehmen,Thaerstraße,(Nebenkosten inklusive),29. Mai
+1362811,2090,Studio,29,Max. 1 Person,Vermietungsunternehmen,Pankstraße,(Nebenkosten inklusive),10. Juni
+971975,750,WG-Zimmer,21,6  Mitbewohner(innen),Vermietungsunternehmen,Ritterlandweg,(Nebenkosten inklusive),1. Juli
+1360946,1038,WG-Zimmer,23,,Vermietungsunternehmen,Paul-Robeson-Straße,(Nebenkosten exklusive),2. Juli
+1223449,1680,Wohnung,54,1 Schlafzimmer,Vermietungsunternehmen,Immanuelkirchstraße,(Nebenkosten inklusive),12. Juli
+1412788,2900,Wohnung,80,2 Schlafzimmer,Vermietungsunternehmen,Chausseestraße,(Nebenkosten inklusive),22. Juli
+1481516,1168,Wohnung,29,1 Schlafzimmer,Vermietungsunternehmen,Crailsheimer Straße,(Nebenkosten inklusive),23. Juli
+1470189,836,WG-Zimmer,12,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),4. Aug.
+1135635,2900,Wohnung,85,2 Schlafzimmer,Vermietungsunternehmen,Borsigstraße,(Nebenkosten inklusive),8. Aug.
+1344545,1038,WG-Zimmer,23,1 Mitbewohner(in),Vermietungsunternehmen,Paul-Robeson-Straße,(Nebenkosten exklusive),12. Aug.
+1152670,1400,Wohnung,32,1 Schlafzimmer,Vermietungsunternehmen,Lübbener Straße,(Nebenkosten inklusive),1. Okt.
+1398805,1300,Wohnung,35,1 Schlafzimmer,Privater Vermieter,Simon-Dach-Straße,(Nebenkosten inklusive),31. Okt.
+1478496,2800,Haus,820,1 Schlafzimmer,Privater Vermieter,Schirmpilzstraße,(Nebenkosten inklusive),29. Mai
+1519068,2390,Wohnung,110,2 Schlafzimmer,Vermietungsunternehmen,Lausitzer Platz,(Nebenkosten inklusive),1. Juni
+1473074,750,WG-Zimmer,9,2  Mitbewohner(innen),Vermietungsunternehmen,Mehringplatz,(Nebenkosten inklusive),11. Aug.
+1283298,1100,WG-Zimmer,24,,Vermietungsunternehmen,Bredowstraße,(Nebenkosten exklusive),29. Mai
+1078666,3495,Wohnung,100,2 Schlafzimmer,Vermietungsunternehmen,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1379960,1700,Wohnung,64,2 Schlafzimmer,Privater Vermieter,Edinburger Straße,(Nebenkosten inklusive),1. Aug.
+1088686,1490,Wohnung,25,1 Schlafzimmer,Vermietungsunternehmen,Fuldastraße,(Nebenkosten inklusive),9. Sept.
+1062876,1350,Wohnung,50,1 Schlafzimmer,Privater Vermieter,Lückstraße,(Nebenkosten inklusive),1. Okt.
+1458970,950,WG-Zimmer,16,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),4. Okt.
+1509980,1495,Wohnung,75,1 Schlafzimmer,Vermietungsunternehmen,Flughafenstraße,(Nebenkosten inklusive),29. Mai
+1018156,1315,WG-Zimmer,24,5  Mitbewohner(innen),Vermietungsunternehmen,Bismarckstraße,(Nebenkosten inklusive),29. Mai
+1397110,1245,Wohnung,31,1 Schlafzimmer,Privater Vermieter,Grünberger Straße,(Nebenkosten inklusive),1. Juni
+744644,1590,Studio,31,Max. 2 Personen,Vermietungsunternehmen,Courbièrestraße,(Nebenkosten inklusive),1. Juli
+1384830,1620,Wohnung,48,2 Schlafzimmer,Privater Vermieter,Sundgauer Straße,(Nebenkosten inklusive),1. Sept.
+878265,620,WG-Zimmer,15,5  Mitbewohner(innen),Vermietungsunternehmen,Buschkrugallee,(Nebenkosten inklusive),16. Sept.
+1500738,2200,Wohnung,52,1 Schlafzimmer,Privater Vermieter,Erich-Nehlhans-Straße,(Nebenkosten inklusive),29. Mai
+1178035,2190,Wohnung,67,1 Schlafzimmer,Vermietungsunternehmen,Proskauer Straße,(Nebenkosten inklusive),29. Mai
+1520378,995,WG-Zimmer,11,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),4. Juli
+1043680,2200,Wohnung,65,2 Schlafzimmer,Vermietungsunternehmen,Buchholzer Straße,(Nebenkosten inklusive),1. Aug.
+1517921,1400,Studio,35,Max. 2 Personen,Privater Vermieter,Roennebergstraße,(Nebenkosten inklusive),3. Juli
+1485447,1018,WG-Zimmer,17,6  Mitbewohner(innen),Vermietungsunternehmen,Delbrückstraße,(Nebenkosten inklusive),4. Sept.
+1103185,1490,Studio,45,Max. 2 Personen,Vermietungsunternehmen,Platz vor dem Neuen Tor,(Nebenkosten inklusive),1. Okt.
+1124779,2250,Wohnung,97,1 Schlafzimmer,Privater Vermieter,Harzer Straße,(einige Nebenkosten inklusive),31. Okt.
+1444471,1850,Wohnung,57,1 Schlafzimmer,Privater Vermieter,Ebertystraße,(Nebenkosten inklusive),18. Nov.
+1336603,1800,Wohnung,51,1 Schlafzimmer,Privater Vermieter,Fehrbelliner Straße,(Nebenkosten inklusive),29. Mai
+1427690,2190,Wohnung,50,1 Schlafzimmer,Privater Vermieter,Leipziger Straße,(Nebenkosten inklusive),1. Juni
+1057560,680,WG-Zimmer,9,4  Mitbewohner(innen),Vermietungsunternehmen,Hermannstraße,(Nebenkosten inklusive),1. Juli
+1124336,1590,Wohnung,60,1 Schlafzimmer,Vermietungsunternehmen,Kreuzbergstraße,(Nebenkosten inklusive),1. Sept.
+1101269,700,WG-Zimmer,13,4  Mitbewohner(innen),Vermietungsunternehmen,Weimarische Straße,(Nebenkosten inklusive),1. Sept.
+1068561,1650,Wohnung,41,1 Schlafzimmer,Privater Vermieter,Am Köllnischen Park,(Nebenkosten inklusive),1. Sept.
+503502,1590,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Stargarder Straße,(Nebenkosten inklusive),1. Sept.
+1175033,670,WG-Zimmer,40,1 Mitbewohner(in),Studentenwohnungen,Schnellerstraße,(Nebenkosten inklusive),1. Okt.
+1138706,1550,Wohnung,43,1 Schlafzimmer,Vermietungsunternehmen,Weisestraße,(Nebenkosten inklusive),1. Okt.
+1459731,900,WG-Zimmer,15,1 Mitbewohner(in),Privater Vermieter,Dunckerstraße,(Nebenkosten exklusive),29. Mai
+1445773,745,WG-Zimmer,16,1 Mitbewohner(in),Vermietungsunternehmen,Körnerstraße,(Nebenkosten inklusive),19. Juli
+1436625,2300,Wohnung,70,1 Schlafzimmer,Privater Vermieter,Ruppiner Straße,(Nebenkosten inklusive),19. Aug.
+1493286,1099,Studio,30,Max. 2 Personen,Privater Vermieter,Tollerstraße,(Nebenkosten inklusive),1. Nov.
+1508123,1990,Wohnung,102,3 Schlafzimmer,Vermietungsunternehmen,Friedrichshagener Straße,(Nebenkosten inklusive),29. Mai
+1506305,3190,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Kurfürstendamm,(Nebenkosten inklusive),29. Mai
+1500756,1440,Studio,34,Max. 2 Personen,Vermietungsunternehmen,Thaerstraße,(Nebenkosten inklusive),29. Mai
+1482955,1790,Wohnung,89,1 Schlafzimmer,Privater Vermieter,Baseler Straße,(Nebenkosten inklusive),29. Mai
+1238531,3700,Wohnung,130,2 Schlafzimmer,Vermietungsunternehmen,Krausnickstraße,(Nebenkosten inklusive),29. Mai
+1047051,3700,Wohnung,130,2 Schlafzimmer,Vermietungsunternehmen,Krausnickstraße,(Nebenkosten inklusive),29. Mai
+1521818,780,WG-Zimmer,15,4  Mitbewohner(innen),Privater Vermieter,Otto-Suhr-Allee,(Nebenkosten inklusive),1. Juni
+1022727,1100,WG-Zimmer,18,2  Mitbewohner(innen),Vermietungsunternehmen,Leuschnerdamm,(Nebenkosten inklusive),1. Juli
+975198,1450,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Thaerstraße,(Nebenkosten inklusive),8. Juli
+1473652,895,WG-Zimmer,16,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),19. Juli
+1468996,1400,Wohnung,71,1 Schlafzimmer,Privater Vermieter,Winterthurstraße,(einige Nebenkosten inklusive),1. Aug.
+490866,1450,Wohnung,42,1 Schlafzimmer,Privater Vermieter,Zähringerstraße,(Nebenkosten inklusive),1. Aug.
+1475582,2800,Wohnung,77,2 Schlafzimmer,Vermietungsunternehmen,Klopstockstraße,(Nebenkosten inklusive),3. Aug.
+1518685,690,WG-Zimmer,12,4  Mitbewohner(innen),Vermietungsunternehmen,Alt-Moabit,(Nebenkosten inklusive),4. Aug.
+1034586,1650,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Schillerstraße,(Nebenkosten inklusive),6. Sept.
+1259264,1663,Wohnung,51,1 Schlafzimmer,Vermietungsunternehmen,Eylauer Straße,(Nebenkosten exklusive),18. Sept.
+1481493,1291,Wohnung,32,1 Schlafzimmer,Vermietungsunternehmen,Crailsheimer Straße,(Nebenkosten inklusive),1. Okt.
+1494491,650,WG-Zimmer,28,2  Mitbewohner(innen),Vermietungsunternehmen,Trusetaler Straße,(Nebenkosten inklusive),1. Nov.
+1521248,700,WG-Zimmer,25,3  Mitbewohner(innen),Privater Vermieter,Schirpitzer Weg,(Nebenkosten inklusive),29. Mai
+1472126,799,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Revaler Straße,(Nebenkosten inklusive),29. Mai
+1465947,999,WG-Zimmer,25,2  Mitbewohner(innen),Privater Vermieter,Emser Straße,(Nebenkosten inklusive),29. Mai
+1465936,999,WG-Zimmer,15,2  Mitbewohner(innen),Privater Vermieter,Emser Straße,(Nebenkosten inklusive),29. Mai
+1237153,2673,Wohnung,55,1 Schlafzimmer,Vermietungsunternehmen,Pufendorfstraße,(Nebenkosten exklusive),1. Aug.
+1489806,735,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Alt-Moabit,(Nebenkosten inklusive),3. Aug.
+1333069,1900,Wohnung,39,1 Schlafzimmer,Vermietungsunternehmen,Prinzenallee,(Nebenkosten inklusive),4. Sept.
+1028061,1530,Studio,43,Max. 2 Personen,Vermietungsunternehmen,Kaubstraße,(Nebenkosten inklusive),2. Okt.
+1301598,750,WG-Zimmer,20,1 Mitbewohner(in),Privater Vermieter,Sonnenallee,(Nebenkosten inklusive),1. Nov.
+1140333,1690,Wohnung,55,1 Schlafzimmer,Vermietungsunternehmen,Bornholmer Straße,(Nebenkosten inklusive),14. Nov.
+1275646,1690,Wohnung,37,1 Schlafzimmer,Vermietungsunternehmen,Ebertystraße,(Nebenkosten inklusive),20. Nov.
+1385624,1700,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Schlüterstraße,(Nebenkosten inklusive),24. Juli
+1413515,1490,Studio,30,Max. 2 Personen,Privater Vermieter,Eisenacher Straße,(Nebenkosten inklusive),1. Nov.
+1106963,1500,Wohnung,60,1 Schlafzimmer,Privater Vermieter,Ystader Straße,(Nebenkosten inklusive),2. Nov.
+1512295,450,Mehrbettzimmer,14,4  Mitbewohner(innen),Vermietungsunternehmen,Breite Straße,(Nebenkosten inklusive),29. Mai
+1455080,760,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Kaiser-Friedrich-Straße,(Nebenkosten inklusive),29. Mai
+1259834,1190,Studio,27,Max. 2 Personen,Vermietungsunternehmen,Drontheimer Straße,(Nebenkosten inklusive),1. Juli
+1001386,2500,Wohnung,60,2 Schlafzimmer,Vermietungsunternehmen,Pflugstraße,(Nebenkosten inklusive),15. Juli
+1007701,2500,Wohnung,55,2 Schlafzimmer,Vermietungsunternehmen,Gartenstraße,(Nebenkosten inklusive),18. Juli
+1034172,2500,Wohnung,80,1 Schlafzimmer,Vermietungsunternehmen,Torstraße,(Nebenkosten inklusive),31. Aug.
+1517957,2390,Wohnung,50,1 Schlafzimmer,Privater Vermieter,Gabriele-Tergit-Promenade,(einige Nebenkosten inklusive),29. Mai
+1214619,700,WG-Zimmer,19,1 Mitbewohner(in),Privater Vermieter,Falkenberger Straße,(Nebenkosten inklusive),1. Aug.
+1179613,1250,Wohnung,42,1 Schlafzimmer,Privater Vermieter,Neues Ufer,(Nebenkosten inklusive),1. Okt.
+1122293,1390,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Sächsische Straße,(Nebenkosten inklusive),3. Okt.
+1034673,1790,Studio,35,Max. 2 Personen,Vermietungsunternehmen,Akazienstraße,(Nebenkosten inklusive),7. Okt.
+1452582,2190,Wohnung,44,1 Schlafzimmer,Vermietungsunternehmen,Libauer Straße,(Nebenkosten inklusive),29. Mai
+1452468,2190,Wohnung,44,1 Schlafzimmer,Vermietungsunternehmen,Libauer Straße,(Nebenkosten inklusive),29. Mai
+713254,3960,Wohnung,63,2 Schlafzimmer,Privater Vermieter,Chausseestraße,(Nebenkosten exklusive),29. Mai
+1385366,1500,Wohnung,80,1 Schlafzimmer,Privater Vermieter,Mariendorfer Damm,(Nebenkosten inklusive),1. Sept.
+1143924,2495,Wohnung,49,1 Schlafzimmer,Vermietungsunternehmen,Am Köllnischen Park,(Nebenkosten exklusive),6. Okt.
+1039789,1440,Studio,36,Max. 2 Personen,Vermietungsunternehmen,Jagowstraße,(Nebenkosten inklusive),7. Nov.
+1498568,1440,Studio,33,Max. 2 Personen,Vermietungsunternehmen,Hallerstraße,(Nebenkosten inklusive),14. Nov.
+1498673,790,WG-Zimmer,14,3  Mitbewohner(innen),Vermietungsunternehmen,Ratiborstraße,(Nebenkosten inklusive),29. Mai
+1363980,3350,Wohnung,89,2 Schlafzimmer,Privater Vermieter,Gabriele-Tergit-Promenade,(einige Nebenkosten inklusive),29. Mai
+1342797,3350,Wohnung,89,2 Schlafzimmer,Privater Vermieter,Gabriele-Tergit-Promenade,(einige Nebenkosten inklusive),29. Mai
+1447105,1250,Wohnung,41,1 Schlafzimmer,Privater Vermieter,General-Woyna-Straße,(Nebenkosten inklusive),1. Juli
+518618,1480,Studio,46,Max. 2 Personen,Vermietungsunternehmen,Katzbachstraße,(Nebenkosten inklusive),19. Nov.
+1475572,3600,Wohnung,148,2 Schlafzimmer,Vermietungsunternehmen,Scharnhorststraße,(Nebenkosten inklusive),29. Mai
+1268806,2400,Studio,23,Max. 2 Personen,Vermietungsunternehmen,Revaler Straße,(Nebenkosten inklusive),29. Mai
+1244443,2000,Wohnung,79,2 Schlafzimmer,Privater Vermieter,Bamberger Straße,(einige Nebenkosten inklusive),15. Juni
+1453602,1799,Wohnung,58,1 Schlafzimmer,Privater Vermieter,Hertzstraße,(Nebenkosten inklusive),1. Sept.
+1104414,1490,Wohnung,36,1 Schlafzimmer,Vermietungsunternehmen,Biebricher Straße,(Nebenkosten inklusive),19. Sept.
+1392533,1490,Wohnung,43,1 Schlafzimmer,Vermietungsunternehmen,Mittenwalder Straße,(Nebenkosten inklusive),3. Okt.
+1506560,1002,WG-Zimmer,27,,Vermietungsunternehmen,Weinbergsweg,(Nebenkosten exklusive),6. Okt.
+1282721,1490,Wohnung,35.5,1 Schlafzimmer,Vermietungsunternehmen,Guineastraße,(Nebenkosten inklusive),11. Sept.
+997745,1290,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Akazienstraße,(Nebenkosten inklusive),13. Sept.
+1504806,770,WG-Zimmer,16,2  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),29. Mai
+1513913,1900,Wohnung,62,1 Schlafzimmer,Vermietungsunternehmen,Holländerstraße,(Nebenkosten inklusive),29. Mai
+1129300,2100,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Englische Straße,(Nebenkosten inklusive),16. Juli
+1468815,1540,Wohnung,49,1 Schlafzimmer,Vermietungsunternehmen,Mittenwalder Straße,(Nebenkosten inklusive),3. Okt.
+1495290,650,WG-Zimmer,27,4  Mitbewohner(innen),Studentenwohnungen,Konstanzer Straße,(Nebenkosten exklusive),29. Mai
+1424710,650,WG-Zimmer,14.02,2  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten exklusive),29. Mai
+1354953,450,WG-Zimmer,7.4,2  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten exklusive),1. Okt.
+1433575,1580,Wohnung,43,1 Schlafzimmer,Vermietungsunternehmen,Weichselstraße,(Nebenkosten inklusive),24. Okt.
+1339516,1600,Wohnung,73,2 Schlafzimmer,Vermietungsunternehmen,Karlsruher Straße,(Nebenkosten inklusive),7. Juni
+1247074,699,Studio,22,Max. 1 Person,Privater Vermieter,Seddinpromenade,(einige Nebenkosten inklusive),1. Juli
+1256818,1960,Wohnung,69,1 Schlafzimmer,Vermietungsunternehmen,Beusselstraße,(Nebenkosten exklusive),28. Aug.
+901305,2800,Wohnung,70,1 Schlafzimmer,Vermietungsunternehmen,Gartenstraße,(Nebenkosten inklusive),31. Aug.
+1425043,1590,Studio,40,Max. 2 Personen,Privater Vermieter,Müllenhoffstraße,(Nebenkosten inklusive),1. Sept.
+1125590,1599,Wohnung,43,1 Schlafzimmer,Privater Vermieter,Urbanstraße,(Nebenkosten inklusive),31. Okt.
+1135691,1599,Wohnung,50,1 Schlafzimmer,Privater Vermieter,Lichtenrader Straße,(Nebenkosten inklusive),1. Okt.
+1118106,2200,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Erich-Weinert-Straße,(Nebenkosten inklusive),1. Okt.
+1115799,800,WG-Zimmer,11,10  Mitbewohner(innen),Vermietungsunternehmen,Pariser Straße,(Nebenkosten inklusive),1. Okt.
+1122194,1980,Wohnung,54,2 Schlafzimmer,Vermietungsunternehmen,Kurfürstenstraße,(Nebenkosten inklusive),5. Nov.
+1248058,2400,Wohnung,93,1 Schlafzimmer,Privater Vermieter,Rheinsberger Straße,(Nebenkosten inklusive),29. Mai
+736813,650,WG-Zimmer,12,3  Mitbewohner(innen),Studentenwohnungen,Lüderitzstraße,(Nebenkosten inklusive),1. Juni
+1481170,2000,Wohnung,65,1 Schlafzimmer,Privater Vermieter,Pfalzburger Straße,(Nebenkosten inklusive),1. Juli
+1156030,2400,Wohnung,64,3 Schlafzimmer,Vermietungsunternehmen,Angerburger Allee,(Nebenkosten inklusive),1. Sept.
+1460988,999,WG-Zimmer,15,2  Mitbewohner(innen),Privater Vermieter,Sonntagstraße,(Nebenkosten inklusive),29. Mai
+1458502,999,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Gutzkowstraße,(Nebenkosten inklusive),29. Mai
+1182420,1150,WG-Zimmer,16,3  Mitbewohner(innen),Vermietungsunternehmen,Uferstraße,(Nebenkosten exklusive),29. Mai
+1462957,999,WG-Zimmer,20,3  Mitbewohner(innen),Privater Vermieter,Revaler Straße,(Nebenkosten inklusive),1. Aug.
+1472135,999,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Revaler Straße,(Nebenkosten inklusive),1. Sept.
+1472069,999,WG-Zimmer,20,3  Mitbewohner(innen),Privater Vermieter,Warschauer Straße,(Nebenkosten inklusive),1. Sept.
+1473743,999,WG-Zimmer,15,2  Mitbewohner(innen),Privater Vermieter,Sonntagstraße,(Nebenkosten inklusive),14. Sept.
+1288321,3200,Wohnung,110,3 Schlafzimmer,Vermietungsunternehmen,Manetstraße,(Nebenkosten inklusive),14. Juni
+860795,1480,Studio,36,Max. 2 Personen,Privater Vermieter,Graefestraße,(Nebenkosten inklusive),29. Mai
+1283393,2890,Wohnung,96,2 Schlafzimmer,Vermietungsunternehmen,Frankfurter Allee,(Nebenkosten inklusive),8. Juli
+789128,1550,Wohnung,47,1 Schlafzimmer,Privater Vermieter,Otto-Suhr-Allee,(einige Nebenkosten inklusive),1. Aug.
+751716,2500,Wohnung,57,2 Schlafzimmer,Vermietungsunternehmen,Boxhagener Straße,(Nebenkosten inklusive),31. Aug.
+495990,990,Studio,36,Max. 2 Personen,Vermietungsunternehmen,Reinickendorfer Straße,(Nebenkosten inklusive),1. Sept.
+1302302,2500,Wohnung,80,1 Schlafzimmer,Vermietungsunternehmen,Schwedter Straße,(Nebenkosten inklusive),30. Sept.
+1424511,999,WG-Zimmer,39,2  Mitbewohner(innen),Vermietungsunternehmen,Lindauer Allee,(Nebenkosten inklusive),1. Okt.
+1348935,1700,Wohnung,70,2 Schlafzimmer,Vermietungsunternehmen,Burggrafenstraße,(Nebenkosten inklusive),1. Nov.
+1063264,1580,Wohnung,41,1 Schlafzimmer,Vermietungsunternehmen,Fehmarner Straße,(Nebenkosten inklusive),30. Aug.
+1127417,1590,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Schützenstraße,(Nebenkosten inklusive),1. Okt.
+1067085,1580,Wohnung,47,1 Schlafzimmer,Vermietungsunternehmen,Fehmarner Straße,(Nebenkosten inklusive),18. Okt.
+1074874,1580,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Beusselstraße,(Nebenkosten inklusive),28. Nov.
+1512119,1995,Wohnung,93,3 Schlafzimmer,Privater Vermieter,Barfusstraße,(einige Nebenkosten inklusive),29. Mai
+1508257,3950,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Behrenstraße,(Nebenkosten inklusive),29. Mai
+1477057,690,WG-Zimmer,21.5,7  Mitbewohner(innen),Studentenwohnungen,Konstanzer Straße,(Nebenkosten exklusive),29. Mai
+1342646,2350,Wohnung,65,1 Schlafzimmer,Privater Vermieter,Gabriele-Tergit-Promenade,(einige Nebenkosten inklusive),29. Mai
+1336601,2600,Wohnung,95,2 Schlafzimmer,Privater Vermieter,Kaiser-Friedrich-Straße,(Nebenkosten inklusive),21. Juli
+1505023,1150,WG-Zimmer,34,3  Mitbewohner(innen),Vermietungsunternehmen,Lietzenburger Straße,(Nebenkosten inklusive),1. Sept.
+1032418,1390,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Schwedter Straße,(Nebenkosten inklusive),2. Sept.
+1459015,1390,Studio,33,Max. 2 Personen,Privater Vermieter,Rigaer Straße,(Nebenkosten inklusive),14. Sept.
+1482074,1500,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Leinestraße,(Nebenkosten inklusive),1. Okt.
+1197064,1200,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Gustav-Müller-Straße,(Nebenkosten inklusive),11. Okt.
+1003164,3995,Wohnung,150,3 Schlafzimmer,Co-living,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1003161,3995,Wohnung,150,3 Schlafzimmer,Vermietungsunternehmen,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1129301,2790,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Englische Straße,(Nebenkosten inklusive),16. Juli
+1480228,1550,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Hansastraße,(Nebenkosten inklusive),1. Sept.
+1475015,800,WG-Zimmer,14,5  Mitbewohner(innen),Vermietungsunternehmen,Buchholzer Straße,(Nebenkosten inklusive),1. Sept.
+1428924,1024,WG-Zimmer,15,7  Mitbewohner(innen),Vermietungsunternehmen,Eldenaer Straße,(Nebenkosten inklusive),4. Sept.
+1215975,1450,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Borussiastraße,(Nebenkosten inklusive),1. Okt.
+870676,375,Mehrbettzimmer,13,4  Mitbewohner(innen),Studentenwohnungen,Stubenrauchstraße,(Nebenkosten inklusive),29. Mai
+1378536,1400,Wohnung,34,1 Schlafzimmer,Privater Vermieter,Heinrich-Seidel-Straße,(Nebenkosten inklusive),11. Juli
+1033317,1795,Wohnung,61,1 Schlafzimmer,Privater Vermieter,Pasewalker Straße,(Nebenkosten inklusive),15. Juli
+1195034,1899,Wohnung,63,1 Schlafzimmer,Privater Vermieter,Lindenstraße,(Nebenkosten inklusive),1. Juli
+1087920,1890,Wohnung,63,2 Schlafzimmer,Vermietungsunternehmen,Pistoriusstraße,(Nebenkosten inklusive),14. Nov.
+1287523,1950,Wohnung,52,1 Schlafzimmer,Privater Vermieter,Schillerstraße,(Nebenkosten inklusive),29. Mai
+847021,1790,Wohnung,76,2 Schlafzimmer,Vermietungsunternehmen,Friedrich-Junge-Straße,(einige Nebenkosten inklusive),29. Mai
+1170976,2554,Wohnung,54,1 Schlafzimmer,Vermietungsunternehmen,Voltairestraße,(Nebenkosten exklusive),2. Okt.
+1499751,2995,Wohnung,90,7 Schlafzimmer,Vermietungsunternehmen,Prendener Straße,(Nebenkosten inklusive),29. Mai
+1138787,2300,Wohnung,95,2 Schlafzimmer,Privater Vermieter,Memhardstraße,(Nebenkosten inklusive),29. Mai
+1521969,2700,Wohnung,51,1 Schlafzimmer,Privater Vermieter,Fechnerstraße,(Nebenkosten inklusive),15. Juni
+1278872,1800,Wohnung,59,1 Schlafzimmer,Privater Vermieter,Borsigstraße,(Nebenkosten inklusive),29. Mai
+1266971,2660,Wohnung,55,1 Schlafzimmer,Privater Vermieter,Berliner Straße,(Nebenkosten inklusive),29. Mai
+1148730,1700,Wohnung,65,1 Schlafzimmer,Vermietungsunternehmen,Kamminer Straße,(Nebenkosten inklusive),1. Juli
+1129301,2790,Studio,30,Max. 2 Personen,Vermietungsunternehmen,Englische Straße,(Nebenkosten inklusive),16. Juli
+1480228,1550,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Hansastraße,(Nebenkosten inklusive),1. Sept.
+1475015,800,WG-Zimmer,14,5  Mitbewohner(innen),Vermietungsunternehmen,Buchholzer Straße,(Nebenkosten inklusive),1. Sept.
+1428924,1024,WG-Zimmer,15,7  Mitbewohner(innen),Vermietungsunternehmen,Eldenaer Straße,(Nebenkosten inklusive),4. Sept.
+1215975,1450,Studio,40,Max. 2 Personen,Vermietungsunternehmen,Borussiastraße,(Nebenkosten inklusive),1. Okt.
+1476266,999,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Warschauer Straße,(Nebenkosten inklusive),29. Mai
+1465140,999,WG-Zimmer,30,2  Mitbewohner(innen),Privater Vermieter,Müggelstraße,(Nebenkosten inklusive),29. Mai
+1465111,999,WG-Zimmer,15,3  Mitbewohner(innen),Privater Vermieter,Warschauer Straße,(Nebenkosten inklusive),29. Mai
+1464480,999,WG-Zimmer,30,2  Mitbewohner(innen),Privater Vermieter,Konstanzer Straße,(Nebenkosten inklusive),29. Mai
+1465113,999,WG-Zimmer,20,3  Mitbewohner(innen),Privater Vermieter,Warschauer Straße,(Nebenkosten inklusive),1. Juni
+1347706,1790,Wohnung,74,2 Schlafzimmer,Privater Vermieter,Olivaer Platz,(Nebenkosten inklusive),30. Juni
+1028789,1270,Studio,55,Max. 2 Personen,Vermietungsunternehmen,Kochhannstraße,(Nebenkosten inklusive),5. Aug.
+1479792,920,WG-Zimmer,16,3  Mitbewohner(innen),Vermietungsunternehmen,Klara-Franke-Straße,(Nebenkosten inklusive),4. Sept.
+1357333,800,WG-Zimmer,19.18,1 Mitbewohner(in),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten exklusive),29. Mai
+1243905,1700,Wohnung,38,1 Schlafzimmer,Privater Vermieter,Rungiusstraße,(Nebenkosten inklusive),29. Mai
+1514334,750,WG-Zimmer,10,4  Mitbewohner(innen),Vermietungsunternehmen,Wadzeckstraße,(Nebenkosten inklusive),1. Juli
+1467558,1700,Wohnung,55,1 Schlafzimmer,Privater Vermieter,Thaerstraße,(Nebenkosten inklusive),1. Juli
+1285599,840,WG-Zimmer,15,4  Mitbewohner(innen),Privater Vermieter,Otto-Suhr-Allee,(Nebenkosten inklusive),1. Juli
+1365656,899,WG-Zimmer,24,3  Mitbewohner(innen),Privater Vermieter,Wielandstraße,(Nebenkosten inklusive),2. Aug.
+1241437,2317,Wohnung,60,1 Schlafzimmer,Vermietungsunternehmen,Goebenstraße,(Nebenkosten exklusive),31. Aug.
+1466278,1490,Wohnung,42,1 Schlafzimmer,Privater Vermieter,Rodenbergstraße,(Nebenkosten inklusive),1. Sept.
+1055397,700,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Blankenfelder Straße,(Nebenkosten inklusive),1. Aug.
+1063774,1295,Studio,30,Max. 2 Personen,Studentenwohnungen,Stralsunder Straße,(Nebenkosten inklusive),1. Okt.
+1344765,1790,Wohnung,25,1 Schlafzimmer,Vermietungsunternehmen,Mariannenplatz,(Nebenkosten inklusive),1. Juli
+901299,1790,Wohnung,25,1 Schlafzimmer,Vermietungsunternehmen,Mariannenplatz,(Nebenkosten inklusive),2. Juli
+1397102,1245,Wohnung,32,1 Schlafzimmer,Privater Vermieter,Danziger Straße,(Nebenkosten inklusive),1. Sept.
+1507326,2590,Wohnung,115,3 Schlafzimmer,Privater Vermieter,Paul-Robeson-Straße,(Nebenkosten inklusive),29. Mai
+1504027,2200,Wohnung,60,2 Schlafzimmer,Privater Vermieter,Wielandstraße,(Nebenkosten inklusive),29. Mai
+1483256,2123,Wohnung,58,1 Schlafzimmer,Vermietungsunternehmen,Rognitzstraße,(Nebenkosten inklusive),29. Mai
+1482396,876,WG-Zimmer,16,7  Mitbewohner(innen),Vermietungsunternehmen,Müllerstraße,(Nebenkosten inklusive),19. Juli
+1171025,3800,Wohnung,90,3 Schlafzimmer,Vermietungsunternehmen,Winsstraße,(Nebenkosten inklusive),25. Aug.
+1505033,1500,Wohnung,65,1 Schlafzimmer,Privater Vermieter,Gundelfinger Straße,(Nebenkosten inklusive),1. Sept.
+1354962,700,WG-Zimmer,14.75,2  Mitbewohner(innen),Vermietungsunternehmen,Kaiser-Friedrich-Straße,(Nebenkosten exklusive),1. Sept.
+1050980,1790,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Krausenstraße,(Nebenkosten inklusive),1. Okt.
+1513093,1850,Wohnung,70,1 Schlafzimmer,Vermietungsunternehmen,Kopenhagener Straße,(Nebenkosten inklusive),29. Mai
+1192033,1780,WG-Zimmer,52,2  Mitbewohner(innen),Vermietungsunternehmen,Kärntener Straße,(Nebenkosten inklusive),2. Aug.
+1499194,1680,Wohnung,65,2 Schlafzimmer,Vermietungsunternehmen,Spandauer Damm,(Nebenkosten inklusive),16. Sept.
+1508562,1400,Studio,60,Max. 2 Personen,Privater Vermieter,Allerstraße,(Nebenkosten inklusive),1. Okt.
+1476379,999,WG-Zimmer,30,3  Mitbewohner(innen),Privater Vermieter,Mühlenstraße,(Nebenkosten inklusive),29. Mai
+1476378,999,WG-Zimmer,30,3  Mitbewohner(innen),Privater Vermieter,Mühlenstraße,(Nebenkosten inklusive),29. Mai
+1476377,999,WG-Zimmer,30,3  Mitbewohner(innen),Privater Vermieter,Mühlenstraße,(Nebenkosten inklusive),29. Mai
+1463070,999,WG-Zimmer,30,3  Mitbewohner(innen),Privater Vermieter,Dusekestraße,(Nebenkosten inklusive),29. Mai
+1350491,1899,Wohnung,35,1 Schlafzimmer,Vermietungsunternehmen,Reichenberger Straße,(Nebenkosten inklusive),17. Juni
+1491896,2590,Wohnung,122,3 Schlafzimmer,Privater Vermieter,Beuthstraße,(Nebenkosten inklusive),1. Juli
+1492557,1700,Wohnung,73,2 Schlafzimmer,Vermietungsunternehmen,Zimmerstraße,(Nebenkosten inklusive),1. Okt.
+949566,2880,Wohnung,85,2 Schlafzimmer,Vermietungsunternehmen,Gabriele-Tergit-Promenade,(Nebenkosten inklusive),10. Okt.
+1279448,1599,Wohnung,43,1 Schlafzimmer,Privater Vermieter,Urbanstraße,(Nebenkosten inklusive),31. Okt.
+1484760,2400,Wohnung,92,2 Schlafzimmer,Privater Vermieter,Bötzowstraße,(Nebenkosten inklusive),29. Mai
+1270957,3190,Wohnung,110,2 Schlafzimmer,Privater Vermieter,Frankfurter Tor,(Nebenkosten inklusive),29. Mai
+1511880,800,Mehrbettzimmer,28,3  Mitbewohner(innen),Privater Vermieter,Ewaldstraße,(Nebenkosten inklusive),1. Juni
+1044242,2050,Wohnung,72,2 Schlafzimmer,Vermietungsunternehmen,Landsberger Allee,(Nebenkosten inklusive),1. Sept.
+1518216,1995,Wohnung,40,2 Schlafzimmer,Vermietungsunternehmen,Willi-Sänger-Straße,(Nebenkosten inklusive),29. Mai
+1513511,850,WG-Zimmer,18,1 Mitbewohner(in),Vermietungsunternehmen,Otto-Suhr-Allee,(Nebenkosten inklusive),29. Mai
+1405820,795,WG-Zimmer,11,8  Mitbewohner(innen),Privater Vermieter,Sulzbergweg,(Nebenkosten inklusive),31. Aug.
+1160199,2150,Studio,22,Max. 2 Personen,Co-living,Mühlenstraße,(Nebenkosten inklusive),1. Sept.
+807702,1340,Studio,38,Max. 2 Personen,Vermietungsunternehmen,Rheinsberger Straße,(Nebenkosten inklusive),28. Nov.
+1514734,2480,Wohnung,78,2 Schlafzimmer,Vermietungsunternehmen,Wrangelstraße,(Nebenkosten inklusive),29. Mai
+1496557,2500,Wohnung,93,1 Schlafzimmer,Privater Vermieter,Angerstraße,(Nebenkosten inklusive),29. Mai
+1468251,3900,Wohnung,100,3 Schlafzimmer,Privater Vermieter,Paul-Lincke-Ufer,(Nebenkosten inklusive),29. Mai
+1204095,2178,Wohnung,56,1 Schlafzimmer,Vermietungsunternehmen,Rognitzstraße,(Nebenkosten inklusive),29. Mai
+1439748,2500,Wohnung,70,2 Schlafzimmer,Privater Vermieter,Farmersteg,(Nebenkosten inklusive),31. Mai
+1470946,695,WG-Zimmer,21,3  Mitbewohner(innen),Vermietungsunternehmen,Körnerstraße,(Nebenkosten inklusive),19. Juli
+1184864,1500,Wohnung,40,1 Schlafzimmer,Privater Vermieter,Kaiserdamm,(Nebenkosten inklusive),1. Aug.
+1476853,2150,Studio,38,Max. 2 Personen,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),25. Aug.
+1347738,1500,Wohnung,34,1 Schlafzimmer,Privater Vermieter,Donaustraße,(Nebenkosten inklusive),8. Okt.
+1102380,2150,Studio,38,Max. 2 Personen,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),16. Okt.
+1428549,900,WG-Zimmer,9,4  Mitbewohner(innen),Privater Vermieter,Uhlandstraße,(Nebenkosten inklusive),29. Mai
+1473197,2500,Wohnung,76,1 Schlafzimmer,Privater Vermieter,Tile-Wardenberg-Straße,(Nebenkosten inklusive),1. Sept.
+1431391,1220,Studio,36,Max. 2 Personen,Privater Vermieter,Sterndamm,(Nebenkosten inklusive),1. Okt.
+1465311,1300,WG-Zimmer,20,2  Mitbewohner(innen),Privater Vermieter,Simplonstraße,(Nebenkosten inklusive),29. Mai
+1379930,3430,Wohnung,98,2 Schlafzimmer,Privater Vermieter,Johann-Sigismund-Straße,(Nebenkosten inklusive),29. Mai
+1102374,2240,Wohnung,60,1 Schlafzimmer,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),8. Juli
+1261563,2400,Wohnung,73,3 Schlafzimmer,Privater Vermieter,Gottschalkstraße,(Nebenkosten inklusive),1. Sept.
+744645,1650,Wohnung,41,1 Schlafzimmer,Vermietungsunternehmen,Dirschauer Straße,(Nebenkosten inklusive),1. Nov.
+1475765,2200,Wohnung,177,1 Schlafzimmer,Privater Vermieter,Carmerstraße,(Nebenkosten inklusive),29. Mai
+1090703,2650,Wohnung,71,1 Schlafzimmer,Vermietungsunternehmen,Hasenheide,(Nebenkosten exklusive),29. Mai
+1428526,950,WG-Zimmer,20,4  Mitbewohner(innen),Privater Vermieter,Uhlandstraße,(Nebenkosten inklusive),1. Juni
+864138,3500,Wohnung,118,2 Schlafzimmer,Vermietungsunternehmen,Mommsenstraße,(Nebenkosten inklusive),1. Okt.
+906741,1890,Wohnung,77,2 Schlafzimmer,Vermietungsunternehmen,Alarichstraße,(Nebenkosten inklusive),10. Okt.
+1470948,2500,Wohnung,65,2 Schlafzimmer,Privater Vermieter,Feuerbachstraße,(Nebenkosten inklusive),29. Mai
+1452594,2750,Wohnung,75,1 Schlafzimmer,Vermietungsunternehmen,Libauer Straße,(Nebenkosten inklusive),29. Mai
+1257946,780,WG-Zimmer,23,2  Mitbewohner(innen),Studentenwohnungen,Manteuffelstraße,(Nebenkosten exklusive),29. Mai
+1520539,2500,Wohnung,85,2 Schlafzimmer,Privater Vermieter,Blissestraße,(Nebenkosten inklusive),1. Sept.
+1378229,1499,Wohnung,31,1 Schlafzimmer,Privater Vermieter,Am Dorfanger,(Nebenkosten inklusive),1. Sept.
+1214907,3237,Wohnung,77,2 Schlafzimmer,Vermietungsunternehmen,Markgrafendamm,(Nebenkosten exklusive),1. Nov.
+1383092,2400,Wohnung,60,1 Schlafzimmer,Privater Vermieter,Talstraße,(Nebenkosten inklusive),1. Okt.
+1475313,1440,Wohnung,40,1 Schlafzimmer,Privater Vermieter,Puchanstraße,(Nebenkosten inklusive),31. Okt.
+1426346,1500,Studio,43,Max. 2 Personen,Vermietungsunternehmen,Rognitzstraße,(Nebenkosten inklusive),31. Okt.
+1359061,3300,Wohnung,90,2 Schlafzimmer,Vermietungsunternehmen,Helene-Jacobs-Straße,(Nebenkosten inklusive),29. Mai
+1359075,3300,Wohnung,90,2 Schlafzimmer,Vermietungsunternehmen,Helene-Jacobs-Straße,(Nebenkosten inklusive),14. Juni
+1267208,1950,Wohnung,52,1 Schlafzimmer,Privater Vermieter,Dessauer Straße,(Nebenkosten inklusive),1. Aug.
+1041421,1290,Studio,47,Max. 2 Personen,Privater Vermieter,Walterhöferstraße,(Nebenkosten inklusive),1. Juni
+1494502,750,WG-Zimmer,22,3  Mitbewohner(innen),Privater Vermieter,Köpenicker Straße,(Nebenkosten inklusive),29. Mai
+831446,1800,Wohnung,60,1 Schlafzimmer,Privater Vermieter,Weichselstraße,(Nebenkosten inklusive),1. Juli
+1276564,1800,Studio,43,Max. 2 Personen,Privater Vermieter,Winsstraße,(Nebenkosten inklusive),12. Aug.
+1075959,2000,Wohnung,75,2 Schlafzimmer,Privater Vermieter,Ravenéstraße,(Nebenkosten inklusive),1. Okt.
+1171465,1579,Wohnung,70,1 Schlafzimmer,Privater Vermieter,Otto-Suhr-Allee,(einige Nebenkosten inklusive),29. Mai
+1485716,1650,Wohnung,60,2 Schlafzimmer,Vermietungsunternehmen,Zingster Straße,(einige Nebenkosten inklusive),29. Mai
+1320209,3800,Wohnung,140,3 Schlafzimmer,Privater Vermieter,Prenzlauer Allee,(Nebenkosten inklusive),29. Mai
+1073205,3439,Studio,32,Max. 2 Personen,Vermietungsunternehmen,Hermannstraße,(Nebenkosten inklusive),29. Mai
+1237699,600,WG-Zimmer,8,2  Mitbewohner(innen),Vermietungsunternehmen,Frobenstraße,(Nebenkosten inklusive),1. Sept.
+1283560,3500,Wohnung,101,3 Schlafzimmer,Vermietungsunternehmen,Lehrter Straße,(Nebenkosten inklusive),5. Aug.
+1284223,2170,Wohnung,65,1 Schlafzimmer,Privater Vermieter,Gleimstraße,(einige Nebenkosten inklusive),1. Juli
+1465070,2750,Wohnung,100,1 Schlafzimmer,Privater Vermieter,Torstraße,(Nebenkosten inklusive),5. Juli
+1487083,6000,Haus,200,3 Schlafzimmer,Vermietungsunternehmen,Bergstraße,(Nebenkosten inklusive),29. Mai
+1134295,2350,Wohnung,75,1 Schlafzimmer,Vermietungsunternehmen,Sophie-Charlotten-Straße,(Nebenkosten inklusive),1. Okt.
+1204899,1580,Studio,30,Max. 1 Person,Privater Vermieter,Eisenzahnstraße,(Nebenkosten inklusive),29. Mai
+1145789,1800,Wohnung,65,2 Schlafzimmer,Privater Vermieter,Ostender Straße,(Nebenkosten inklusive),1. Sept.
+1025130,1790,Wohnung,66.5,2 Schlafzimmer,Vermietungsunternehmen,Schwedter Straße,(Nebenkosten inklusive),15. Sept.
+1034948,2850,Wohnung,41,2 Schlafzimmer,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),1. Okt.
+1034947,2850,Wohnung,41,2 Schlafzimmer,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),1. Okt.
+1197542,2178,Wohnung,56,1 Schlafzimmer,Vermietungsunternehmen,Rognitzstraße,(Nebenkosten inklusive),29. Mai
+1468252,3900,Wohnung,100,3 Schlafzimmer,Privater Vermieter,Paul-Lincke-Ufer,(Nebenkosten inklusive),29. Mai
+1466593,3900,Wohnung,100,3 Schlafzimmer,Privater Vermieter,Paul-Lincke-Ufer,(Nebenkosten inklusive),29. Mai
+1471215,750,WG-Zimmer,22,3  Mitbewohner(innen),Privater Vermieter,Köpenicker Straße,(Nebenkosten inklusive),1. Sept.
+1203937,2490,Wohnung,48,1 Schlafzimmer,Privater Vermieter,Buchholzer Straße,(Nebenkosten inklusive),29. Mai
+1059252,2100,Wohnung,33,1 Schlafzimmer,Vermietungsunternehmen,Greifswalder Straße,(Nebenkosten inklusive),29. Mai
+1236065,4900,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1469801,3000,Wohnung,100,2 Schlafzimmer,Privater Vermieter,Greifswalder Straße,(Nebenkosten inklusive),31. Aug.
+1017595,1699,Wohnung,52,1 Schlafzimmer,Privater Vermieter,Am Dorfanger,(Nebenkosten inklusive),1. Sept.
+1271754,3800,Wohnung,84,2 Schlafzimmer,Vermietungsunternehmen,Gubener Straße,(Nebenkosten inklusive),29. Mai
+1455677,3400,Wohnung,90,2 Schlafzimmer,Privater Vermieter,Bernauer Straße,(Nebenkosten inklusive),31. Mai
+1441511,1420,Wohnung,44,1 Schlafzimmer,Privater Vermieter,Chaukenstraße,(Nebenkosten inklusive),29. Mai
+1316652,1699,Wohnung,71,1 Schlafzimmer,Privater Vermieter,Seddinpromenade,(einige Nebenkosten inklusive),29. Mai
+1073407,3470,Wohnung,71,1 Schlafzimmer,Vermietungsunternehmen,Hasenheide,(Nebenkosten exklusive),29. Mai
+1121319,1099,Studio,39,Max. 1 Person,Privater Vermieter,Seddinpromenade,(einige Nebenkosten inklusive),3. Juni
+1034949,3220,Wohnung,80,2 Schlafzimmer,Vermietungsunternehmen,Metzer Straße,(Nebenkosten inklusive),29. Juli
+1307859,800,WG-Zimmer,18,1 Mitbewohner(in),Privater Vermieter,Clayallee,(einige Nebenkosten inklusive),30. Juli
+1497911,2450,Wohnung,70,2 Schlafzimmer,Privater Vermieter,Joachim-Friedrich-Straße,(Nebenkosten inklusive),29. Mai
+792049,2795,Wohnung,79,1 Schlafzimmer,Privater Vermieter,Karl-Kunger-Straße,(Nebenkosten inklusive),29. Mai
+1471394,2990,Wohnung,180,2 Schlafzimmer,Privater Vermieter,Lychener Straße,(Nebenkosten exklusive),1. Nov.
+1230682,1240,Studio,24,Max. 2 Personen,Privater Vermieter,Lehrter Straße,(Nebenkosten inklusive),1. Aug.
+1482113,2590,Wohnung,120,3 Schlafzimmer,Privater Vermieter,Alfredstraße,(einige Nebenkosten inklusive),29. Mai
+1331838,4000,Wohnung,160,2 Schlafzimmer,Privater Vermieter,Goltzstraße,(Nebenkosten inklusive),29. Mai
+1421368,3100,Wohnung,104,3 Schlafzimmer,Privater Vermieter,Alsenstraße,(Nebenkosten inklusive),29. Mai
+1359370,3000,Wohnung,95,3 Schlafzimmer,Privater Vermieter,Burgsdorfstraße,(Nebenkosten inklusive),24. Juli
+1236068,5300,Wohnung,60,2 Schlafzimmer,Vermietungsunternehmen,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1347610,1600,Wohnung,45,1 Schlafzimmer,Vermietungsunternehmen,Rostocker Straße,(Nebenkosten inklusive),1. Sept.
+1227372,4800,Wohnung,150,1 Schlafzimmer,Vermietungsunternehmen,Ackerstraße,(Nebenkosten inklusive),6. Sept.
+1062246,4599,Wohnung,40,1 Schlafzimmer,Vermietungsunternehmen,Hermannstraße,(Nebenkosten inklusive),29. Mai
+1509603,4455,Wohnung,204,3 Schlafzimmer,Privater Vermieter,Weserstraße,(einige Nebenkosten inklusive),29. Mai
+1515657,5000,Wohnung,190,3 Schlafzimmer,Vermietungsunternehmen,Lynarstraße,(Nebenkosten inklusive),1. Juni
+1301017,4900,Wohnung,140,2 Schlafzimmer,Privater Vermieter,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1116668,4500,Wohnung,125,2 Schlafzimmer,Privater Vermieter,Körnerstraße,(einige Nebenkosten inklusive),1. Sept.
+1349918,2100,Wohnung,31,1 Schlafzimmer,Privater Vermieter,Treuchtlinger Straße,(einige Nebenkosten inklusive),1. Sept.
+1000879,2450,Wohnung,60,1 Schlafzimmer,Vermietungsunternehmen,Oderberger Straße,(Nebenkosten inklusive),1. Okt.
+1332929,4600,Wohnung,110,3 Schlafzimmer,Privater Vermieter,Planckstraße,(Nebenkosten inklusive),1. Nov.
+1236060,4300,Studio,38,Max. 2 Personen,Vermietungsunternehmen,Stresemannstraße,(Nebenkosten inklusive),29. Mai
+1409214,2200,Wohnung,60,2 Schlafzimmer,Privater Vermieter,Kleinziethener Straße,(Nebenkosten inklusive),1. Sept.
+1053214,6242,Wohnung,180,5 Schlafzimmer,Vermietungsunternehmen,Perleberger Straße,(Nebenkosten inklusive),29. Mai
+1281590,3000,Wohnung,97,1 Schlafzimmer,Privater Vermieter,Kolonnenstraße,(Nebenkosten inklusive),1. Okt.
+1031501,5000,Wohnung,130,4 Schlafzimmer,Privater Vermieter,Höchste Straße,(Nebenkosten inklusive),29. Mai
+1031498,5000,Wohnung,130,4 Schlafzimmer,Privater Vermieter,Höchste Straße,(Nebenkosten inklusive),29. Mai
+1359065,4625,Wohnung,115,3 Schlafzimmer,Vermietungsunternehmen,Leonore-Goldschmidt-Straße,(Nebenkosten inklusive),17. Juni
+1258917,6995,Wohnung,90,1 Schlafzimmer,Vermietungsunternehmen,Choriner Straße,(Nebenkosten inklusive),31. Mai
+1262392,3500,Haus,150,3 Schlafzimmer,Privater Vermieter,Ilsensteinweg,(Nebenkosten exklusive),29. Mai
+952892,6890,Wohnung,65,1 Schlafzimmer,Privater Vermieter,Winterfeldtstraße,(Nebenkosten inklusive),29. Mai

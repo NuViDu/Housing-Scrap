@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import os
 
 #Location var
 city = 'Berlin'
@@ -26,11 +27,12 @@ for item in listing:
     warm.append(item.contents[0].contents[1].contents[0].contents[0].contents[4].text)
     app_type.append(item.contents[0].contents[1].contents[1].contents[0].contents[0].text.rstrip(' •'))
     size.append(item.contents[0].contents[1].contents[1].contents[0].contents[1].text[:-3].rstrip(' '))
-    notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
     if len(item.contents[0].contents[1].contents[1].contents[0]) > 3:
+        notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
         date.append(item.contents[0].contents[1].contents[1].contents[0].contents[3].text[3:].lstrip(' '))
     else:
-        date.append('')
+        notation.append('')
+        date.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text[3:].lstrip(' '))
     provider.append(item.contents[0].contents[1].contents[2].contents[0].contents[0].text)
 
 #Find address of all listing
@@ -74,11 +76,12 @@ for i in range(2, lastPage+1):
         warm.append(item.contents[0].contents[1].contents[0].contents[0].contents[4].text)
         app_type.append(item.contents[0].contents[1].contents[1].contents[0].contents[0].text.rstrip(' •'))
         size.append(item.contents[0].contents[1].contents[1].contents[0].contents[1].text[:-3].rstrip(' '))
-        notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
         if len(item.contents[0].contents[1].contents[1].contents[0]) > 3:
+            notation.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text.rstrip(' •'))
             date.append(item.contents[0].contents[1].contents[1].contents[0].contents[3].text[3:].lstrip(' '))
         else:
-            date.append('')
+            notation.append('')
+            date.append(item.contents[0].contents[1].contents[1].contents[0].contents[2].text[3:].lstrip(' '))
         provider.append(item.contents[0].contents[1].contents[2].contents[0].contents[0].text)
     
     image = soup.findAll('img', attrs={'data-test-locator': 'ListingCardPhotoGallery/Photo'})
@@ -93,12 +96,16 @@ for i in range(2, lastPage+1):
         ids.append(x[3].lstrip('ut'))
 
 #Add all data to a table
-columns = ['ID', 'Price', 'Housing Type', 'Size', 'Note']
-data = [ids,price, app_type, size, notation]
+columns = ['ID', 'Price', 'Housing Type', 'Size', 'Note', 'Provider Type', 'Address', 'Rent Price Info', 'Listing Date']
+data = [ids, price, app_type, size, notation, provider, address, warm, date]
 data = zip(*data)
 
 #Save data to csv file
-with open('data/' + nation + '/' + city + '_housing_data.csv', 'w') as f:
-    write = csv.writer(f)   
+directory = f'data/{nation}/'
+os.makedirs(directory, exist_ok=True)
+
+with open(directory + city +'_housing_data.csv', 'w', newline='') as f:    
+    # using csv.writer method from CSV package
+    write = csv.writer(f)    
     write.writerow(columns)
     write.writerows(data)

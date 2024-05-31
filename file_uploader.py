@@ -31,7 +31,7 @@ def main():
 
     # The destination bucket and filename on the MinIO server
     bucket_name = "scraphouse"
-    destination_file = nation + '/' + city + '/'+ timestamp + '_housing_data.csv'
+    destination_file = 'raw' + '/' + city + '/'+ timestamp + '.csv'
 
     # Make the bucket if it doesn't exist.
     found = client.bucket_exists(bucket_name)
