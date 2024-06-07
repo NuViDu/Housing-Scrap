@@ -1,0 +1,727 @@
+id,price,size,housing_type,address,housing_type_1,provider_type,rent_price_info,listing_day,listing_month,listing_year,listing_date
+1014572,777,21,Studio,Alfred-Jung-Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1495641,450,11,WG-Zimmer,Rhinstrasse,WG-Zimmer,Studentenwohnungen,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1019442,788,19,Studio,Alfred-Jung-Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),16,6,2024,2024-06-16
+1522119,995,18,Studio,Rathenaustrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1510167,1300,35,Studio,Oldenburger Strasse,Studio,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1029155,1045,27,Wohnung,Osnabruecker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1514746,700,8,WG-Zimmer,Turiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1514741,700,8,WG-Zimmer,Turiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1378547,700,12,WG-Zimmer,Reinickendorfer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1049776,700,11,WG-Zimmer,Nazarethkirchstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1049028,700,12,WG-Zimmer,Nazarethkirchstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1211995,1099,31,Studio,Schlueterstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1096390,675,9,WG-Zimmer,Greifswalder Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),22,7,2024,2024-07-22
+1115653,1490,24,Studio,Brunnenstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,7,2024,2024-07-31
+1114410,1300,24,Studio,Buchholzer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1110669,1300,25,Studio,Buchholzer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1259330,1300,16,Studio,Motzstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1012437,680,13,WG-Zimmer,Bochumer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1148758,1163,20,Studio,Koepenicker Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1418572,820,13,WG-Zimmer,Friedrichstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1418559,820,13,WG-Zimmer,Friedrichstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1522083,680,13,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1378611,699,10,WG-Zimmer,Gabriel-Max-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1295173,699,9,WG-Zimmer,Kantstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1285013,699,10,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1106272,699,10,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1514729,760,11,WG-Zimmer,Turiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1045440,1600,40,Wohnung,Krausnickstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1522116,692,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1522108,692,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1522118,692,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1058383,660,7,WG-Zimmer,Perleberger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1475802,720,21,WG-Zimmer,Kantstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1522114,712,13,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1522101,1136,22,Studio,Lehrter Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1519601,1275,37,Studio,Herrnhuter Weg,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1375344,650,13,WG-Zimmer,Hausotterstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1444060,1409,40,Studio,Braunschweiger Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),3,6,2024,2024-06-03
+1522115,715,13,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1236075,720,20,WG-Zimmer,Friedrichsbrunner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1124689,1200,30,Studio,Savignyplatz,Studio,Privater Vermieter,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1471627,640,10,WG-Zimmer,Reinickendorfer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+924439,690,13,WG-Zimmer,Sternstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+753767,650,9,WG-Zimmer,Alt-Moabit,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+609153,650,14,WG-Zimmer,Gneisenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1114131,750,10,WG-Zimmer,Cunostrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1114128,750,10,WG-Zimmer,Cunostrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1466657,1700,40,Wohnung,Krausnickstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1130936,1700,56,Wohnung,Torstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),26,7,2024,2024-07-26
+1444048,1450,40,Studio,Braunschweiger Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),3,6,2024,2024-06-03
+1100933,650,11,WG-Zimmer,Stephanstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1039998,615,9,WG-Zimmer,Hermannstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),23,7,2024,2024-07-23
+1516566,1700,20,Studio,Elisabethkirchstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1114359,770,14,WG-Zimmer,Cunostrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1007963,750,15,WG-Zimmer,Treseburger Ufer,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1114474,770,14,WG-Zimmer,Cunostrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1007362,750,24,WG-Zimmer,Braunlager Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1328953,750,11,WG-Zimmer,Uhlandstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1522102,1089,32,Studio,Lindenstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1518893,1500,54,Wohnung,Proskauer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1281481,1500,42,Wohnung,Kaiser-Friedrich-Strasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1225970,1350,33,Studio,Knaackstrasse,Studio,Vermietungsunternehmen,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+978084,680,7,WG-Zimmer,Ibsenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1053190,680,8,WG-Zimmer,Ibsenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+999982,1350,38,Studio,Guineastrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1100117,1125,38,Wohnung,Wildenbruchstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1522093,709,12,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1245179,1380,36,Studio,Knaackstrasse,Studio,Vermietungsunternehmen,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1522111,708,12,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1085220,1395,30,Studio,Rueckertstrasse,Studio,Co-living,(Nebenkosten inklusive),15,7,2024,2024-07-15
+1059526,750,19,WG-Zimmer,Brandenburgische Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1522121,709,12,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1100876,710,10,WG-Zimmer,Koenigin-Elisabeth-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1512232,1250,20,Wohnung,Hauptstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1084234,665,11,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1522130,1280,22,Studio,Lehrter Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+998871,1400,35,Studio,Guineastrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),10,6,2024,2024-06-10
+1522109,654,14,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,6,2024,2024-06-16
+1081853,640,13,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1134092,1599,64,Wohnung,Biebricher Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),6,6,2024,2024-06-06
+1118001,660,14,WG-Zimmer,Eichborndamm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1465804,750,12,WG-Zimmer,Sickingenstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1514703,900,15,WG-Zimmer,Turiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+922767,1750,53,Wohnung,Osnabruecker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1053149,1900,60,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1099619,625,9,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1100981,660,6,WG-Zimmer,Petersburger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+984632,760,17,WG-Zimmer,Richardstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1493867,695,12,WG-Zimmer,Simmelstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1476189,715,12,WG-Zimmer,Libauer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1026011,699,9,WG-Zimmer,Greifswalder Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1072522,629,9,WG-Zimmer,Boxhagener Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),9,7,2024,2024-07-09
+1193473,680,8,WG-Zimmer,Lauterberger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+661903,1350,45,Wohnung,Emser Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1452399,499,20,WG-Zimmer,Tollerstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1072731,1700,46,Wohnung,Brandenburgische Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1000528,1390,37,Studio,Emser Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,7,2024,2024-07-08
+1441542,1700,51,Studio,Greifenhagener Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+987463,1700,45,Wohnung,Heidenfeldstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1175458,1090,31,Wohnung,Wrangelstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1029808,710,11,WG-Zimmer,Kottbusser Damm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),30,6,2024,2024-06-30
+1059515,660,16,WG-Zimmer,Brandenburgische Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1090359,810,21,WG-Zimmer,Badensche Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1522120,760,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1027565,950,17,WG-Zimmer,Markgrafendamm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1014174,1600,36,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),11,11,2024,2024-11-11
+746338,695,14,WG-Zimmer,Glockenturmstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1270897,590,11,WG-Zimmer,Glienicker Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1522915,655,9,WG-Zimmer,Nordkapstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1459827,1895,56,Wohnung,Leibnizstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1485555,777,11,WG-Zimmer,Charlottenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1516674,795,11,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1099621,655,9,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),25,7,2024,2024-07-25
+1101026,690,11,WG-Zimmer,Weimarische Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1522082,709,12,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1458718,882,11,WG-Zimmer,Einbecker Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1422757,1400,20,Studio,Paul-Robeson-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,8,2024,2024-08-11
+1259329,1400,20,Studio,Motzstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),2,9,2024,2024-09-02
+1494500,735,15,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+905804,875,14,Studio,Zur Gartenstadt,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1491908,820,11,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1448125,995,20,WG-Zimmer,Am Pankepark,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1010319,720,23,WG-Zimmer,Treseburger Ufer,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1303686,1900,54,Wohnung,Keithstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),2,8,2024,2024-08-02
+1267916,720,15,WG-Zimmer,Uhlandstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1197060,1100,30,Studio,Gustav-Mueller-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),17,8,2024,2024-08-17
+885893,690,7,WG-Zimmer,Wilsnacker Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+748549,945,17,Studio,Stralsunder Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1522103,654,14,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1422740,1300,18,Studio,Paul-Robeson-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1450966,859,8,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1421247,1802,64,Wohnung,Sredzkistrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),4,6,2024,2024-06-04
+1375551,2300,60,Wohnung,Bergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1214397,730,17,WG-Zimmer,Lauterberger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+885896,700,8,WG-Zimmer,Wilsnacker Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1465921,630,9,WG-Zimmer,Otto-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1039856,700,13,WG-Zimmer,Soldiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1466656,1700,40,Wohnung,Krausnickstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1261238,1700,45,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1495599,895,16,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1506529,895,16,WG-Zimmer,Delbrueckstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1135397,630,30,WG-Zimmer,Schnellerstrasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1084975,2000,80,Wohnung,Schlueterstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+760812,770,17,WG-Zimmer,Luebener Weg,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1461427,920,19,WG-Zimmer,Alt-Moabit,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1468852,920,14,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1112126,695,11,WG-Zimmer,Wuehlischstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),9,7,2024,2024-07-09
+933312,720,12,WG-Zimmer,Hohenzollerndamm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1480756,920,11,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1452200,841,19,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1072963,1695,60,Wohnung,Eislebener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1518557,1700,65,Wohnung,Singerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1242671,1200,43,Wohnung,Muehlenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+998568,1550,35,Studio,Huttenstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1260168,1700,50,Wohnung,Lenaustrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1515807,852,10,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1423611,950,16,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1428634,2500,70,Wohnung,Bergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1360550,1350,39,Studio,Boyenstrasse,Studio,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+999242,1490,58,Wohnung,Stephanstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1503132,1495,60,Wohnung,Flughafenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+998535,710,14,WG-Zimmer,Karl-Marx-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1454388,960,15,WG-Zimmer,Eldenaer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,6,2024,2024-06-19
+1189949,1944,41,Wohnung,Wilhelminenhofstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),21,6,2024,2024-06-21
+1421244,2019,67,Wohnung,Sredzkistrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1287556,1480,45,Wohnung,Hektorstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1078667,2250,82,Wohnung,Eislebener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+552723,1795,41,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),14,6,2024,2024-06-14
+1454370,770,9,WG-Zimmer,Boxhagener Strasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1172221,1750,65,Wohnung,Glockenturmstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1433783,1350,36,Wohnung,Lucy-Lameck-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),30,11,2024,2024-11-30
+1102789,690,21,WG-Zimmer,Martin-Luther-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1364402,1045,14,WG-Zimmer,Fischerinsel,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1487781,1000,21,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1053207,690,8,WG-Zimmer,Jansastrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1350003,1350,37,Studio,Anklamer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1508262,3450,45,Wohnung,Behrenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1189463,1290,22,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1518957,390,27,Mehrbettzimmer,Paul-Schneider-Strasse,Mehrbettzimmer,Vermietungsunternehmen,(Nebenkosten exklusive),2,6,2024,2024-06-02
+1041813,699,9,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1481480,1230,34,Wohnung,Crailsheimer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1003862,680,9,WG-Zimmer,Prenzlauer Promenade,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1034165,2200,52,Wohnung,Friedrichstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),11,8,2024,2024-08-11
+1084297,1800,50,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1070010,670,30,WG-Zimmer,Schnellerstrasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),16,11,2024,2024-11-16
+878800,1500,30,Studio,Potsdamer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,7,2024,2024-07-08
+1295927,1663,44,Studio,Stargarder Strasse,Studio,Vermietungsunternehmen,(Nebenkosten exklusive),30,8,2024,2024-08-30
+1481502,991,25,Wohnung,Crailsheimer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1194845,1280,61,Wohnung,Gustav-Mueller-Strasse,Wohnung,Privater Vermieter,(Nebenkosten exklusive),1,10,2024,2024-10-01
+1298511,606,8,WG-Zimmer,Heinrich-Roller-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1160207,2800,29,Studio,Muehlenstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1148236,715,13,WG-Zimmer,Schlossstraße,WG-Zimmer,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1067674,690,10,WG-Zimmer,Tempelhofer Weg,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1041815,675,9,WG-Zimmer,Bornholmer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),24,7,2024,2024-07-24
+1336548,1800,72,Wohnung,Luebecker Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1444077,2369,67,Wohnung,Braunschweiger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),3,6,2024,2024-06-03
+1100960,650,10,WG-Zimmer,Petersburger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1010328,750,14,WG-Zimmer,Bismarckstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1403191,749,9,WG-Zimmer,Holteistrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),5,7,2024,2024-07-05
+1461208,650,9,WG-Zimmer,Sterndamm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1036359,740,12,WG-Zimmer,Wrangelstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1139307,1450,40,Studio,Frankfurter Allee,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+915308,850,16,WG-Zimmer,Bismarckstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1469610,695,13,WG-Zimmer,Pintschstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1513212,649,23,WG-Zimmer,Trachtenbrodtstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),14,7,2024,2024-07-14
+1459030,1003,16,WG-Zimmer,Togostrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+902493,740,12,WG-Zimmer,Mahlower Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1506559,867,20,WG-Zimmer,Weinbergsweg,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),8,8,2024,2024-08-08
+1493065,870,12,WG-Zimmer,Chausseestrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),3,9,2024,2024-09-03
+1274643,1400,58,Wohnung,Romy-Schneider-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1047672,1590,26,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1047667,1590,22,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1226046,1590,30,Studio,Am Flughafen,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),10,6,2024,2024-06-10
+1344768,1700,41,Wohnung,Simon-Dach-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1081684,790,16,WG-Zimmer,Wrangelstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1028258,1200,25,Studio,Lehrter Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1001032,1700,45,Wohnung,Wisbyer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1001026,1700,56,Wohnung,Wisbyer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+516186,1350,35,Wohnung,Mittenwalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+517332,1350,35,Wohnung,Jansastrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1427134,1950,83,Wohnung,Schwarzdornweg,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+868487,650,12,WG-Zimmer,Luebbener Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+838834,590,10,WG-Zimmer,Emdenzeile,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,6,2024,2024-06-04
+1330731,1950,40,Wohnung,Prinzenallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),16,6,2024,2024-06-16
+1522445,765,13,WG-Zimmer,Stromstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),19,6,2024,2024-06-19
+1330603,1950,35,Wohnung,Prinzenallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),30,6,2024,2024-06-30
+1330729,1950,36,Wohnung,Prinzenallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1189492,1040,22,Studio,Reinickendorfer Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+987469,1800,64,Wohnung,Bleibtreustrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+511560,1800,105,Wohnung,Tempelherrenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+998563,720,9,WG-Zimmer,Kottbusser Damm,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),30,6,2024,2024-06-30
+1509744,860,17,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1357583,2604,27,Studio,Franklinstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),15,7,2024,2024-07-15
+1518533,1990,66,Wohnung,Kolberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1226050,1690,35,Studio,Am Flughafen,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),10,6,2024,2024-06-10
+751721,2250,55,Wohnung,Luebbener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1522117,711,12,WG-Zimmer,Rathenaustrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),2,7,2024,2024-07-02
+1269571,1530,51,Wohnung,Emdener Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),2,7,2024,2024-07-02
+1422770,1400,21,Studio,Paul-Robeson-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1422765,1400,27,Studio,Paul-Robeson-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1043981,1050,33,Studio,Strasse am Schildhorn,Studio,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1481411,1117,28,Wohnung,Crailsheimer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1283299,1000,14,WG-Zimmer,Bredowstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,7,2024,2024-07-01
+1072967,2300,75,Wohnung,Eislebener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1411980,2300,55,Wohnung,Bernhard-Lichtenberg-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),13,7,2024,2024-07-13
+1248267,879,33,Studio,Seddinpromenade,Studio,Privater Vermieter,(einige Nebenkosten inklusive),3,6,2024,2024-06-03
+1450563,665,11,WG-Zimmer,Schoenhauser Allee,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),7,8,2024,2024-08-07
+1514679,1580,55,Wohnung,Wrangelstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1361959,1100,15,WG-Zimmer,Martin-Opitz-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,7,2024,2024-07-01
+1264225,799,20,WG-Zimmer,Malchower Weg,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1477328,670,11,WG-Zimmer,Faerberstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1426334,2132,19,Studio,Albrecht-Achilles-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1138364,2073,24,Studio,Muellerstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),12,6,2024,2024-06-12
+1074424,2300,80,Wohnung,Johann-Georg-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1105763,2400,57,Wohnung,Bismarckstrasse,Wohnung,Co-living,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1032478,790,16,WG-Zimmer,Brueckenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1046998,2650,99,Wohnung,Maybachufer,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),18,9,2024,2024-09-18
+1303113,2495,74,Wohnung,Tempelhofer Ufer,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),16,8,2024,2024-08-16
+1074048,2700,92,Wohnung,Kaiser-Friedrich-Strasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),1,10,2024,2024-10-01
+1521843,850,15,WG-Zimmer,Emser Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1521826,850,10,WG-Zimmer,Emser Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1306134,2352,66,Wohnung,Goebenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),29,6,2024,2024-06-29
+1259907,3018,85,Wohnung,Stralauer Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),15,6,2024,2024-06-15
+1472134,999,15,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1464495,999,20,WG-Zimmer,Urbanstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1317884,1586,56,Wohnung,Marie-Elisabeth-von-Humboldt-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+917653,2450,61,Wohnung,Andreasstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),13,7,2024,2024-07-13
+1471933,870,10,WG-Zimmer,Boyenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1462925,999,29,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1499138,1500,70,Wohnung,Kantstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1360955,1038,23,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1278493,1495,53,Wohnung,Parksiedlung Spruch,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),1,9,2024,2024-09-01
+1181484,1690,41,Wohnung,Grossbeerenstraße,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1270379,750,13,WG-Zimmer,Glockenturmstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),30,9,2024,2024-09-30
+1273632,1595,36,Studio,Flensburger Strasse,Studio,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+868766,625,14,WG-Zimmer,Wilsnacker Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1255977,1499,32,Wohnung,Koloniestrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),12,8,2024,2024-08-12
+692540,710,15,WG-Zimmer,Alt-Friedrichsfelde,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+991766,1210,28,Studio,Beusselstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),30,6,2024,2024-06-30
+1192835,1495,45,Wohnung,Prenzlauer Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1489809,765,11,WG-Zimmer,Tempelhofer Ufer,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1473770,825,10,WG-Zimmer,Archibaldweg,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1242313,2257,50,Wohnung,Erich-Weinert-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),28,8,2024,2024-08-28
+1254600,2000,70,Wohnung,Uhlandstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1384897,1600,50,Wohnung,Fehrbelliner Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1505116,1750,38,Wohnung,Gierkeplatz,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+878265,620,15,WG-Zimmer,Buschkrugallee,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,9,2024,2024-09-16
+1500738,2200,52,Wohnung,Erich-Nehlhans-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1077386,1800,28,Wohnung,Baenschstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+993929,1800,30,Wohnung,Pappelallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1520378,995,11,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1043680,2200,65,Wohnung,Buchholzer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1246885,1800,45,Wohnung,Behmstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),20,8,2024,2024-08-20
+1086894,1550,42,Wohnung,Goethestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+915291,795,18,WG-Zimmer,Leibnizstrasse,WG-Zimmer,Co-living,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1360957,1128,27,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1360956,1128,31,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1360954,1128,27,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1352067,1128,32,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1126386,1350,45,Studio,Uhlandstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1450174,2500,80,Haus,Cunostrasse,Haus,Privater Vermieter,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1428499,1900,54,Wohnung,Witzlebenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1448214,943,11,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1519156,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1134187,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,10,2024,2024-10-08
+1223371,1350,27,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),9,10,2024,2024-10-09
+1190243,500,20,Mehrbettzimmer,Alt-Moabit,Mehrbettzimmer,Studentenwohnungen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1047663,1490,22,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1047658,1490,22,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1517628,500,20,Mehrbettzimmer,Alt-Moabit,Mehrbettzimmer,Studentenwohnungen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1521711,1490,50,Haus,Beizerweg,Haus,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1317899,795,15,WG-Zimmer,Glockenturmstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1288864,700,16,WG-Zimmer,Manteuffelstrasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),1,8,2024,2024-08-01
+1428499,1900,54,Wohnung,Witzlebenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1448214,943,11,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1519156,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1134187,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,10,2024,2024-10-08
+1223371,1350,27,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),9,10,2024,2024-10-09
+1496798,845,16,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1495380,845,16,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1281042,2450,80,Wohnung,Cosmarweg,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1452400,699,20,WG-Zimmer,Hertzstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1516914,1050,21,WG-Zimmer,Bredowstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,11,2024,2024-11-01
+1081553,1600,55,Wohnung,Weisestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1388527,1850,60,Wohnung,Ermanstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1464617,910,14,WG-Zimmer,Urbanstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,6,2024,2024-06-19
+1523301,2425,62,Studio,Modersohnstrasse,Studio,Vermietungsunternehmen,(Nebenkosten exklusive),1,7,2024,2024-07-01
+1523299,2425,62,Studio,Modersohnstrasse,Studio,Vermietungsunternehmen,(Nebenkosten exklusive),1,7,2024,2024-07-01
+1273568,1400,58,Wohnung,Romy-Schneider-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1135634,2850,83,Wohnung,Greifswalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,8,2024,2024-08-31
+1362477,875,19,WG-Zimmer,Ebertystrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1060420,1290,44,Studio,Boeckhstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),12,9,2024,2024-09-12
+1327306,2000,68,Wohnung,Kietzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1263777,2400,60,Wohnung,Togostrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1364407,1145,14,WG-Zimmer,Fischerinsel,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1457390,680,13,WG-Zimmer,Hainstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1126624,1650,46,Studio,Wangenheimstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1481493,1291,32,Wohnung,Crailsheimer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1494491,650,28,WG-Zimmer,Trusetaler Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1521248,700,25,WG-Zimmer,Schirpitzer Weg,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+578044,660,11,WG-Zimmer,Koloniestrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1517881,1500,54,Wohnung,Duesseldorfer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1386546,1600,59,Wohnung,Luebecker Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1516281,1500,25,Studio,Lehrter Strasse,Studio,Privater Vermieter,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1330323,1950,40,Wohnung,Prinzenallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1214378,1795,85,Wohnung,Biebricher Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1506912,1500,42,Wohnung,Stralauer Allee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+868764,625,12,WG-Zimmer,Weisestrasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1063114,3300,95,Wohnung,Wittelsbacherstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1079467,1730,41,Wohnung,Boxhagener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),8,8,2024,2024-08-08
+1355514,1350,35,Wohnung,Lynarstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),18,8,2024,2024-08-18
+1344544,858,19,WG-Zimmer,Paul-Robeson-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),5,9,2024,2024-09-05
+1386877,1340,29,Studio,Lortzingstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),6,9,2024,2024-09-06
+1009268,1340,35,Wohnung,Pettenkoferstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),3,10,2024,2024-10-03
+1271059,1440,48,Wohnung,Hirtenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),19,10,2024,2024-10-19
+1282729,2900,80,Wohnung,Bizetstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+767835,1380,45,Studio,Wiclefstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1242907,1150,40,Wohnung,Stadtrandstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),30,9,2024,2024-09-30
+1063774,1295,30,Studio,Stralsunder Strasse,Studio,Studentenwohnungen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1039256,1350,39,Wohnung,Bernkastler Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1385070,950,15,WG-Zimmer,Bredowstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,10,2024,2024-10-01
+1286793,1390,35,Studio,Bossestrasse,Studio,Privater Vermieter,(Nebenkosten inklusive),27,10,2024,2024-10-27
+1385068,950,16,WG-Zimmer,Bredowstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),2,11,2024,2024-11-02
+1270325,2200,82,Wohnung,Glockenturmstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1385366,1500,80,Wohnung,Mariendorfer Damm,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1039789,1440,36,Studio,Jagowstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),7,11,2024,2024-11-07
+1468815,1540,49,Wohnung,Mittenwalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),3,10,2024,2024-10-03
+1424710,650,14,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1160210,3600,30,Studio,Muehlenstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+901320,1950,40,Wohnung,Gaudystrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1226054,1790,45,Studio,Am Flughafen,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1087018,1100,40,Wohnung,Am Friedrichshain,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),1,7,2024,2024-07-01
+1043048,1089,39,Studio,Seddinpromenade,Studio,Privater Vermieter,(einige Nebenkosten inklusive),3,6,2024,2024-06-03
+1339516,1600,73,Wohnung,Karlsruher Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),7,6,2024,2024-06-07
+901305,2800,70,Wohnung,Gartenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,8,2024,2024-08-31
+1425043,1590,40,Studio,Muellenhoffstrasse,Studio,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1125590,1599,43,Wohnung,Urbanstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,10,2024,2024-10-31
+1342557,2250,86,Wohnung,Strelitzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1135191,4200,125,Wohnung,Gormannstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1110548,1210,19,Studio,Rognitzstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1130730,1210,28,Studio,Beusselstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),15,6,2024,2024-06-15
+1128180,1550,50,Wohnung,Wehneltsteig,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1112081,720,15,WG-Zimmer,Grunewaldstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1241397,1550,37,Wohnung,Kiefholzstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1306134,2352,66,Wohnung,Goebenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),29,6,2024,2024-06-29
+1462957,999,20,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1472135,999,15,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1473743,999,15,WG-Zimmer,Sonntagstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),14,9,2024,2024-09-14
+1471043,1590,26,Studio,Reinickendorfer Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1259907,3018,85,Wohnung,Stralauer Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),15,6,2024,2024-06-15
+1034168,2900,70,Wohnung,Almstadtstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,7,2024,2024-07-31
+1460998,999,15,WG-Zimmer,Sonntagstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1460997,999,15,WG-Zimmer,Sonntagstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1460992,999,20,WG-Zimmer,Sonntagstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1460988,999,15,WG-Zimmer,Sonntagstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1182420,1150,16,WG-Zimmer,Uferstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1462957,999,20,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1472135,999,15,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1477057,690,22,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1342646,2350,65,Wohnung,Gabriele-Tergit-Promenade,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1516941,1500,20,WG-Zimmer,Torstrasse,WG-Zimmer,Privater Vermieter,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1485113,1790,52,Wohnung,Buchholzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1103073,1500,42,Wohnung,Hertzbergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1030772,1790,50,Wohnung,Petersburger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1385644,2200,59,Wohnung,Schlueterstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1178035,2190,67,Wohnung,Proskauer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1512119,1995,93,Wohnung,Barfusstrasse,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1508257,3950,45,Wohnung,Behrenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1477057,690,22,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1342646,2350,65,Wohnung,Gabriele-Tergit-Promenade,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1516941,1500,20,WG-Zimmer,Torstrasse,WG-Zimmer,Privater Vermieter,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1485113,1790,52,Wohnung,Buchholzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1103073,1500,42,Wohnung,Hertzbergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1030772,1790,50,Wohnung,Petersburger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1482074,1500,45,Wohnung,Leinestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1197064,1200,30,Studio,Gustav-Mueller-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,10,2024,2024-10-11
+1454589,2150,80,Wohnung,Holzmarktstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),3,7,2024,2024-07-03
+1003164,3995,150,Wohnung,Stresemannstrasse,Wohnung,Co-living,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1474479,1500,80,Wohnung,Mariendorfer Damm,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1429544,1800,67,Wohnung,Fortunaallee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1463087,999,24,WG-Zimmer,Dusekestrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1463036,999,15,WG-Zimmer,Dusekestrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1000123,1950,40,Studio,Oderberger Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),10,6,2024,2024-06-10
+1195034,1899,63,Wohnung,Lindenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1087920,1890,63,Wohnung,Pistoriusstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),14,11,2024,2024-11-14
+1287523,1950,52,Wohnung,Schillerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1170976,2554,54,Wohnung,Voltairestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),2,10,2024,2024-10-02
+1151365,1990,45,Wohnung,Eberswalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),2,11,2024,2024-11-02
+1211841,1590,40,Wohnung,Ebertystrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),11,11,2024,2024-11-11
+1519807,1790,63,Wohnung,Ordensmeisterstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1375336,1190,24,WG-Zimmer,Skalitzer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1306137,3030,107,Wohnung,Zaehringerstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+745778,3180,76,Wohnung,Grimmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1125589,2799,100,Wohnung,Gruenberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1342014,1999,58,Wohnung,Stralauer Allee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,8,2024,2024-08-15
+1375336,1190,24,WG-Zimmer,Skalitzer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+745778,3180,76,Wohnung,Grimmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1125589,2799,100,Wohnung,Gruenberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1342014,1999,58,Wohnung,Stralauer Allee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,8,2024,2024-08-15
+1505875,2000,72,Wohnung,Hagelberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1479772,1600,58,Wohnung,Winsstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1244802,2000,40,Wohnung,Schreinerstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1464480,999,30,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1028789,1270,55,Studio,Kochhannstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,8,2024,2024-08-05
+1479792,920,16,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,9,2024,2024-09-04
+1396122,1950,86,Wohnung,An der Kolonnade,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1197131,1250,45,Studio,Schraeger Weg,Studio,Privater Vermieter,(einige Nebenkosten inklusive),1,11,2024,2024-11-01
+849380,1300,40,Studio,Olbersstrasse,Studio,Privater Vermieter,(Nebenkosten exklusive),4,11,2024,2024-11-04
+1303649,2190,81,Wohnung,Klopstockstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,7,2024,2024-07-15
+1001033,1500,42,Wohnung,Rodenbergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1385042,2150,80,Wohnung,Spenerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),16,9,2024,2024-09-16
+1485005,1500,54,Wohnung,Duesseldorfer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1481458,1194,32,Wohnung,Crailsheimer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+731478,850,18,WG-Zimmer,Moellendorffstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1274993,3000,85,Wohnung,Auguststrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1288364,2900,80,Wohnung,Manetstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),2,8,2024,2024-08-02
+1344765,1790,25,Wohnung,Mariannenplatz,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1370543,1690,60,Wohnung,Niklasstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1236001,1980,55,Wohnung,Kaiserin-Augusta-Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),10,10,2024,2024-10-10
+1274266,3000,97,Wohnung,Kolonnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),30,11,2024,2024-11-30
+1460270,3400,100,Wohnung,Gubener Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1426338,2974,19,Studio,Albrecht-Achilles-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,7,2024,2024-07-11
+1482396,876,16,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1426338,2974,19,Studio,Albrecht-Achilles-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,7,2024,2024-07-11
+1482396,876,16,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1505033,1500,65,Wohnung,Gundelfinger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1354962,700,15,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,9,2024,2024-09-01
+1050980,1790,40,Wohnung,Krausenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1513093,1850,70,Wohnung,Kopenhagener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1173806,3100,79,Wohnung,Bergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),23,8,2024,2024-08-23
+1409615,1595,50,Wohnung,Glatzer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1065289,2300,76,Wohnung,Marthashof,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+997745,1290,35,Wohnung,Akazienstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),13,9,2024,2024-09-13
+1508562,1400,60,Studio,Allerstrasse,Studio,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1476377,999,30,WG-Zimmer,Muehlenstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1463070,999,30,WG-Zimmer,Dusekestrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1350491,1899,35,Wohnung,Reichenberger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1331393,3200,70,Wohnung,Schonensche Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),16,6,2024,2024-06-16
+1130051,3100,96,Wohnung,Alte Brauerei,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),30,6,2024,2024-06-30
+902422,1990,41,Wohnung,Schlossstraße,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),26,7,2024,2024-07-26
+1074870,2190,50,Wohnung,Liliencronstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,9,2024,2024-09-15
+1438129,1600,35,Wohnung,Stubbenkammerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),30,9,2024,2024-09-30
+1452417,799,20,WG-Zimmer,Hertzstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1489508,1600,65,Wohnung,Zachertstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1496557,2500,93,Wohnung,Angerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1468251,3900,100,Wohnung,Paul-Lincke-Ufer,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1109003,2178,56,Wohnung,Rognitzstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1204095,2178,56,Wohnung,Rognitzstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1439748,2500,70,Wohnung,Farmersteg,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1385645,1500,22,WG-Zimmer,Schlueterstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1363632,2080,75,Wohnung,Heinz-Kapelle-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),21,10,2024,2024-10-21
+1470946,695,21,WG-Zimmer,Koernerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1476853,2150,38,Studio,Greifswalder Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),25,8,2024,2024-08-25
+1239498,1950,53,Wohnung,Leopoldstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),9,9,2024,2024-09-09
+1347738,1500,34,Wohnung,Donaustrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),8,10,2024,2024-10-08
+1102380,2150,38,Studio,Greifswalder Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),16,10,2024,2024-10-16
+1428549,900,9,WG-Zimmer,Uhlandstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1473197,2500,76,Wohnung,Tile-Wardenberg-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1465311,1300,20,WG-Zimmer,Simplonstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1379930,3430,98,Wohnung,Johann-Sigismund-Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1102374,2240,60,Wohnung,Greifswalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),8,7,2024,2024-07-08
+1261563,2400,73,Wohnung,Gottschalkstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+744645,1650,41,Wohnung,Dirschauer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1475765,2200,177,Wohnung,Carmerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1090703,2650,71,Wohnung,Hasenheide,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1428526,950,20,WG-Zimmer,Uhlandstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1389045,2280,80,Wohnung,Danziger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1484552,850,17,WG-Zimmer,Steintraegerweg,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1375847,850,17,WG-Zimmer,Steintraegerweg,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1507689,2250,122,Wohnung,Ohmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1511684,2600,90,Wohnung,Zehdenicker Strasse,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1355857,1150,31,WG-Zimmer,Skalitzer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1178618,3825,80,Wohnung,Am Koellnischen Park,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1236835,2799,100,Wohnung,Gruenberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1191997,1590,51,Wohnung,Goethestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),15,10,2024,2024-10-15
+1408918,3200,127,Wohnung,Alt-Stralau,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1357332,750,18,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1354977,750,19,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+683842,1990,51,Wohnung,Paul-Lincke-Ufer,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1218321,3200,120,Wohnung,Korsoerer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1402930,1980,78,Wohnung,Oeynhauser Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1488389,1380,44,Wohnung,Chaukenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1203352,1770,66,Wohnung,Elsenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1228789,2090,60,Wohnung,Kottbusser Damm,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+831446,1800,60,Wohnung,Weichselstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1075959,2000,75,Wohnung,Ravenéstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1109820,1800,57,Wohnung,Falckensteinstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),4,11,2024,2024-11-04
+1230683,1600,33,Studio,Lehrter Strasse,Studio,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1192033,1780,52,WG-Zimmer,Kaerntener Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),2,8,2024,2024-08-02
+1430603,2995,75,Wohnung,Erich-Kuttner-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1274037,2200,47,Wohnung,Schwartzkopffstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1062236,3075,25,Studio,Hermannstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1119746,2400,133,Wohnung,Woerther Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),12,7,2024,2024-07-12
+1352842,2649,75,Wohnung,Heimstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1025130,1790,67,Wohnung,Schwedter Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),15,9,2024,2024-09-15
+966063,1590,61,Wohnung,Schivelbeiner Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1150074,2000,70,Wohnung,Richardstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1439440,3200,110,Wohnung,Flemingstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1282408,1999,83,Wohnung,Langhansstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1427374,799,26,WG-Zimmer,Pichelsdorfer Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1059252,2100,33,Wohnung,Greifswalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1194830,1250,20,WG-Zimmer,Pariser Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1129303,3300,40,Studio,Englische Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1246489,1650,50,Wohnung,Schwedter Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),8,9,2024,2024-09-08
+1305291,2499,65,Wohnung,Kleine Alexanderstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1211146,2500,78,Wohnung,Nikolsburger Platz,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1018184,1205,15,WG-Zimmer,Zimmerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten exklusive),1,7,2024,2024-07-01
+1231555,2750,102,Wohnung,Kastanienallee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1458535,3150,95,Wohnung,Metzer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1515561,950,20,WG-Zimmer,Caesarstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1428912,4100,98,Wohnung,Beuthstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1239598,6500,200,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1129666,2600,70,Wohnung,Greifswalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),29,7,2024,2024-07-29
+1090702,3000,71,Wohnung,Hasenheide,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1521796,2250,110,Wohnung,Obentrautstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1268396,2210,80,Wohnung,Cicerostrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1336211,3400,93,Wohnung,Wangenheimstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1386850,3500,136,Wohnung,Beusselstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1450126,1800,47,Wohnung,Kleinziethener Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1258130,1850,57,Wohnung,Fuggerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),6,10,2024,2024-10-06
+1123476,3849,32,Studio,Hermannstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1400860,5000,145,Wohnung,Lietzenburger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1453907,4621,207,Wohnung,Hohenzollerndamm,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1359067,4630,115,Wohnung,Leonore-Goldschmidt-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),24,7,2024,2024-07-24
+1397367,2990,140,Wohnung,Soldiner Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1457172,1300,14,WG-Zimmer,Wilmersdorfer Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1073207,5249,51,Wohnung,Hermannstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1358967,5200,90,Wohnung,Helene-Jacobs-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),26,6,2024,2024-06-26
+1469640,1900,55,Wohnung,Lange Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),6,9,2024,2024-09-06
+1258910,5995,53,Wohnung,Choriner Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),2,6,2024,2024-06-02
+1401424,3950,120,Wohnung,Fischzug,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1350808,1599,40,Studio,Bismarckstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1347036,3500,172,Wohnung,Diestelmeyerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1147243,5800,102,Wohnung,Soldiner Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),15,7,2024,2024-07-15
+1378994,1500,30,WG-Zimmer,Koenigin-Elisabeth-Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1258918,8700,104,Wohnung,Choriner Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),12,6,2024,2024-06-12
+952894,8550,65,Wohnung,Winterfeldtstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1258922,9600,132,Wohnung,Choriner Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1258921,9600,118,Wohnung,Choriner Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),6,6,2024,2024-06-06
+1504801,8100,120,Wohnung,Winterstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1379938,8225,235,Wohnung,Westfaelische Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+899723,995,25,Wohnung,Osnabruecker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1516432,1500,39,Studio,Sophienstrasse,Studio,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1514751,700,8,WG-Zimmer,Turiner Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1521630,1150,32,Wohnung,Kreuznacher Strasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),3,7,2024,2024-07-03
+1259328,1300,20,Studio,Motzstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),14,7,2024,2024-07-14
+1032484,720,9,WG-Zimmer,Brueckenstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,8,2024,2024-08-16
+1522106,692,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1007270,710,11,WG-Zimmer,Greifswalder Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1285010,719,10,WG-Zimmer,Kaiser-Friedrich-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1073370,851,25,Studio,Deulstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+552722,1350,26,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1258208,710,14,WG-Zimmer,Heerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1482727,1167,20,Wohnung,Hauptstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+793326,690,9,WG-Zimmer,Schulstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+492017,1380,36,Wohnung,Knaackstrasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),18,6,2024,2024-06-18
+1359929,1290,36,Wohnung,Richard-Wagner-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+987487,1600,52,Wohnung,Heidenfeldstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1000652,1695,44,Wohnung,Kurfuerstenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1510788,1390,33,Wohnung,Emser Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),15,6,2024,2024-06-15
+1522911,655,9,WG-Zimmer,Nordkapstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1491882,1490,53,Wohnung,Teichstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1197058,1100,30,Studio,Gustav-Mueller-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),30,8,2024,2024-08-30
+1441540,1700,50,Wohnung,Brunnenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,11,2024,2024-11-01
+1504100,920,14,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,6,2024,2024-06-04
+1452446,825,11,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1497912,945,10,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,6,2024,2024-06-04
+1298512,582,8,WG-Zimmer,Heinrich-Roller-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),3,6,2024,2024-06-03
+1362807,1690,15,Studio,Pankstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,8,2024,2024-08-01
+986582,1190,44,Studio,Strassmannstraße,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1512315,1275,20,Wohnung,Ingrid-Reschke-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1487273,747,13,WG-Zimmer,Wielandstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,8,2024,2024-08-19
+1403331,1200,34,Wohnung,Albrechtstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+998434,680,18,WG-Zimmer,Treseburger Ufer,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,6,2024,2024-06-01
+1001284,1700,45,Wohnung,Wisbyer Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1330325,1950,40,Wohnung,Prinzenallee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1447873,1400,42,Wohnung,Kurfuerstendamm,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1432927,1400,40,Wohnung,Puecklerstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1197059,1100,30,Studio,Gustav-Mueller-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1197056,1100,30,Studio,Gustav-Mueller-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),7,10,2024,2024-10-07
+1506320,2200,28,Wohnung,Kurfuerstendamm,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1464641,785,9,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1227353,2750,65,Wohnung,Hufelandstrasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),31,8,2024,2024-08-31
+1513132,1580,62,Wohnung,Hektorstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1447664,2400,65,Wohnung,Lychener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1084664,1590,40,Studio,Bayernallee,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),2,8,2024,2024-08-02
+1306134,2352,66,Wohnung,Goebenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),29,6,2024,2024-06-29
+1259907,3018,85,Wohnung,Stralauer Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),15,6,2024,2024-06-15
+1206946,2500,94,Wohnung,Fritz-Reuter-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1123700,1550,42,Wohnung,Nansenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+492419,1550,42,Wohnung,Greifenhagener Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1357587,2294,22,Studio,Franklinstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1428499,1900,54,Wohnung,Witzlebenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1448214,943,11,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1519156,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1134187,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,10,2024,2024-10-08
+1223371,1350,27,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),9,10,2024,2024-10-09
+1068335,2750,100,Wohnung,Frankfurter Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),2,7,2024,2024-07-02
+1357587,2294,22,Studio,Franklinstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1428499,1900,54,Wohnung,Witzlebenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1448214,943,11,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1519156,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1134187,1000,23,Studio,Urbanstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),8,10,2024,2024-10-08
+1223371,1350,27,Wohnung,Koepenicker Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),9,10,2024,2024-10-09
+1479798,1240,32,Studio,Residenzstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),14,11,2024,2024-11-14
+1219174,375,21,Mehrbettzimmer,Wilsnacker Strasse,Mehrbettzimmer,Studentenwohnungen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1509372,705,14,WG-Zimmer,Simmelstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1148973,2150,80,Wohnung,Bluecherstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,8,2024,2024-08-05
+1495509,700,15,WG-Zimmer,Trusetaler Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+463949,1680,52,Wohnung,Birkenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1497108,1310,45,Wohnung,Dietzgenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),11,11,2024,2024-11-11
+1452448,795,17,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),8,7,2024,2024-07-08
+1192152,900,15,WG-Zimmer,Pariser Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1495290,650,27,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1455667,2300,63,Wohnung,Greifenhagener Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1429045,870,14,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,9,2024,2024-09-04
+1112085,720,15,WG-Zimmer,Grunewaldstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1433575,1580,43,Wohnung,Weichselstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),24,10,2024,2024-10-24
+1306134,2352,66,Wohnung,Goebenstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),29,6,2024,2024-06-29
+1462957,999,20,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1472135,999,15,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1472069,999,20,WG-Zimmer,Warschauer Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1259907,3018,85,Wohnung,Stralauer Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),15,6,2024,2024-06-15
+1458502,999,20,WG-Zimmer,Gutzkowstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1462957,999,20,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1472135,999,15,WG-Zimmer,Revaler Strasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1477057,690,22,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1342646,2350,65,Wohnung,Gabriele-Tergit-Promenade,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1516941,1500,20,WG-Zimmer,Torstrasse,WG-Zimmer,Privater Vermieter,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1485113,1790,52,Wohnung,Buchholzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1103073,1500,42,Wohnung,Hertzbergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1030772,1790,50,Wohnung,Petersburger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1477057,690,22,WG-Zimmer,Konstanzer Strasse,WG-Zimmer,Studentenwohnungen,(Nebenkosten exklusive),31,5,2024,2024-05-31
+1342646,2350,65,Wohnung,Gabriele-Tergit-Promenade,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1516941,1500,20,WG-Zimmer,Torstrasse,WG-Zimmer,Privater Vermieter,(einige Nebenkosten inklusive),1,6,2024,2024-06-01
+1485113,1790,52,Wohnung,Buchholzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),17,6,2024,2024-06-17
+1103073,1500,42,Wohnung,Hertzbergstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1030772,1790,50,Wohnung,Petersburger Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),5,9,2024,2024-09-05
+1459015,1390,33,Studio,Rigaer Strasse,Studio,Privater Vermieter,(Nebenkosten inklusive),14,9,2024,2024-09-14
+1003161,3995,150,Wohnung,Stresemannstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+847021,1790,76,Wohnung,Friedrich-Junge-Strasse,Wohnung,Vermietungsunternehmen,(einige Nebenkosten inklusive),31,5,2024,2024-05-31
+1375336,1190,24,WG-Zimmer,Skalitzer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+745778,3180,76,Wohnung,Grimmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1125589,2799,100,Wohnung,Gruenberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1342014,1999,58,Wohnung,Stralauer Allee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,8,2024,2024-08-15
+1375336,1190,24,WG-Zimmer,Skalitzer Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+745778,3180,76,Wohnung,Grimmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1125589,2799,100,Wohnung,Gruenberger Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,8,2024,2024-08-01
+1342014,1999,58,Wohnung,Stralauer Allee,Wohnung,Privater Vermieter,(Nebenkosten inklusive),15,8,2024,2024-08-15
+1503551,2000,67,Wohnung,Knaackstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),14,9,2024,2024-09-14
+843970,1720,60,Wohnung,Koertestrasse,Wohnung,Privater Vermieter,(einige Nebenkosten inklusive),1,10,2024,2024-10-01
+1426338,2974,19,Studio,Albrecht-Achilles-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,7,2024,2024-07-11
+1482396,876,16,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1426338,2974,19,Studio,Albrecht-Achilles-Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),11,7,2024,2024-07-11
+1482396,876,16,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),19,7,2024,2024-07-19
+1476379,999,30,WG-Zimmer,Muehlenstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1118106,2200,40,Wohnung,Erich-Weinert-Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1343637,2480,78,Wohnung,Rykestrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),27,10,2024,2024-10-27
+1431391,1220,36,Studio,Sterndamm,Studio,Privater Vermieter,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1284710,2250,122,Wohnung,Ohmstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+901317,1820,40,Wohnung,Novalisstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),11,10,2024,2024-10-11
+1504810,3000,70,Wohnung,Winterstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1145789,1800,65,Wohnung,Ostender Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1365191,1600,56,Wohnung,Einbecker Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),1,7,2024,2024-07-01
+1203937,2490,48,Wohnung,Buchholzer Strasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1321060,2495,60,Wohnung,Kniprodestrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1282862,2600,93,Wohnung,Dunckerstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),18,7,2024,2024-07-18
+1479992,1490,44,Wohnung,Chaukenstrasse,Wohnung,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1236066,5500,60,Wohnung,Stresemannstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1053406,5550,30,Studio,Englische Strasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1522129,709,8,WG-Zimmer,Ostendstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),16,7,2024,2024-07-16
+1445433,920,14,WG-Zimmer,Klara-Franke-Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,7,2024,2024-07-04
+1256818,1960,69,Wohnung,Beusselstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),28,8,2024,2024-08-28
+1514412,893,10,WG-Zimmer,Muellerstrasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1357587,2294,22,Studio,Franklinstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1357587,2294,22,Studio,Franklinstrasse,Studio,Vermietungsunternehmen,(Nebenkosten inklusive),5,6,2024,2024-06-05
+1522910,1010,21,WG-Zimmer,Treuchtlinger Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),4,8,2024,2024-08-04
+1256818,1960,69,Wohnung,Beusselstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),28,8,2024,2024-08-28
+1090419,900,14,WG-Zimmer,Pariser Strasse,WG-Zimmer,Vermietungsunternehmen,(Nebenkosten inklusive),1,10,2024,2024-10-01
+1282386,1980,77,Wohnung,Kaiserin-Augusta-Allee,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),17,10,2024,2024-10-17
+1476378,999,30,WG-Zimmer,Muehlenstrasse,WG-Zimmer,Privater Vermieter,(Nebenkosten inklusive),31,5,2024,2024-05-31
+1276564,1800,43,Studio,Winsstrasse,Studio,Privater Vermieter,(Nebenkosten inklusive),12,8,2024,2024-08-12
+780249,1400,45,Wohnung,Mittenwalder Strasse,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),1,9,2024,2024-09-01
+1256818,1960,69,Wohnung,Beusselstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),28,8,2024,2024-08-28
+1256818,1960,69,Wohnung,Beusselstrasse,Wohnung,Vermietungsunternehmen,(Nebenkosten exklusive),28,8,2024,2024-08-28
+1148476,2200,65,Wohnung,Grazer Platz,Wohnung,Vermietungsunternehmen,(Nebenkosten inklusive),31,5,2024,2024-05-31

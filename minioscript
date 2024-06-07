@@ -1,3 +1,0 @@
-docker run -p 9000:9000 -p 9090:9090 --name minio -v /tmp/data:/data -e "MINIO_ROOT_USER=dung" -e "MINIO_ROOT_PASSWORD=password" quay.io/minio/minio server /data --console-address ":9090"
-
-docker start minio

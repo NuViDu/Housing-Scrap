@@ -104,7 +104,7 @@ data = zip(*data)
 directory = f'data/{nation}/'
 os.makedirs(directory, exist_ok=True)
 
-with open(directory + city +'_housing_data.csv', 'w', newline='') as f:    
+with open(directory + city +'_housing_data.csv', 'w', newline='', encoding='utf-8') as f:    
     # using csv.writer method from CSV package
     write = csv.writer(f)    
     write.writerow(columns)

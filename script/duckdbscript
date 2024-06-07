@@ -1,0 +1,30 @@
+INSTALL httpfs;
+LOAD httpfs;
+SET s3_region='us-east-1';
+SET s3_url_style='path';
+SET s3_endpoint='localhost:9000';
+SET s3_access_key_id='dev' ;
+SET s3_secret_access_key='password';
+SET s3_use_ssl = 'false';
+
+CREATE TABLE housing AS SELECT * FROM read_csv(
+    's3://scraphouse/raw/Berlin/Berlin_housing_data.csv',
+    delim = ',',
+    header = 'true',
+    auto_detect = 'false',
+    null_padding= 'true',
+    columns = {
+        'id': 'Integer',
+        'price': 'Integer',
+        'housing_type': 'VARCHAR',
+        'size': 'Integer',
+        'note': 'VARCHAR',
+        'provider_type': 'VARCHAR',
+        'address': 'VARCHAR',
+        'rent_price_info': 'VARCHAR',
+        'listing_date': 'VARCHAR'
+    }
+    );
+
+
+COPY transform_data TO 's3://scraphouse/transformed/Berlin_housing_data.parquet';
